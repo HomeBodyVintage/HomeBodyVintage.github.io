@@ -57,7 +57,7 @@ Some additional text
 
 :::: {.columns}
 ::: {.column width="33%" align=left}
-[![](photos/homepage/photo0006.PNG#round)](https://www.instagram.com/stories/highlights/17947143565776641/)
+[![](photos/homepage/Photo0006.PNG#round)](https://www.instagram.com/stories/highlights/17947143565776641/)
 
 :::
 ::: {.column width="33%" align=center}
