@@ -1,74 +1,54 @@
 ---
-title: "<img src=\"photos/homepage/logo.PNG\" style=\"float: left;\" width=\"225px\" /> "
 output: 
   html_document:
     theme: cosmo
 ---
 <style type="text/css">
   body{
-  font-size: 15pt;
   background-color: #F6F5E8;
-}
-img[src$="#round"] {
-  display: block;
-  margin: -15px;
-  border-radius: 2%;
-}
-.navbar {
-  min-height: 65px;
-  min-width: 1800px;
+  font-size: 15pt;
 }
 </style>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="+3">SLC Vintage Goods LLC</font>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font size="+1">Vintage Mid-Century Modern Goods</font>
 
-<br>
+[![](photos/homepage/furnituremain.png)](https://www.instagram.com/slc.vintagegoods/)
 
 
-:::: {.columns}
-::: {.column width="58%" align=right}
-[![](photos/homepage/furniture-main.PNG#round)](https://www.instagram.com/stories/highlights/18001806031402346/)
-
-:::
-::: {.column width="23%" align=right}
-<center><b> Some Title </b>
-<br>
-Some additional text
-</center>
-:::
-::::
 
 ```{css toc-content, echo = FALSE}
-#TOC {
-  right: 270px;
-  margin: 20px 0px 25px 0px;
-}
-
 .main-container {
     max-width: 1800px;
-    margin-left: 50px;
     margin-top: -20px;
-    margin-right: -75px;
+
+}
+.WebContainer{
+  width:auto;
+  min-width:1000px;
+  height:auto;
 }
 ```
+
+<center>
+[![](photos/homepage/furniture.png){width=49%}](https://www.instagram.com/stories/highlights/18001806031402346/)
+[![](photos/homepage/houseware.png){width=49%}](https://www.instagram.com/stories/highlights/17947143565776641/)
+</center>
+<center>
+[![](photos/homepage/Lighting.png){width=49%}](https://www.instagram.com/stories/highlights/18005960851553487/)
+[![](photos/homepage/Art.png){width=49%}](https://www.instagram.com/stories/highlights/17996285302652525/)
+</center>
+
+***
+
+<center><font size="4">
+Salt Lake City, UT &nbsp; | &nbsp;
+(760)625-5431 &nbsp; | &nbsp;
+slc.vintagegoods@gmail.com 
+</font>
 <br>
 
-:::: {.columns}
-::: {.column width="33%" align=left}
-[![](photos/homepage/Photo0006.PNG#round)](https://www.instagram.com/stories/highlights/17947143565776641/)
 
-:::
-::: {.column width="33%" align=center}
-[![](photos/homepage/Lighting.png#round)](https://www.instagram.com/stories/highlights/18005960851553487/)
 
-:::
-::: {.column width="33%" align=right}
-[![](photos/homepage/Art.png#round)](https://www.instagram.com/stories/highlights/17996285302652525/)
-
-:::
-::::
-***
-<font size="4"><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salt Lake City, UT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(760)625-5431 </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slc.vintagegoods@gmail.com </font>
-
+<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+</center>
