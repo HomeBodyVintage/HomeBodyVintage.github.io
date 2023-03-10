@@ -52,3 +52,4 @@ slc.vintagegoods@gmail.com
 <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
 </center>
+

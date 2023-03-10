@@ -8,7 +8,7 @@ output:
 <style type="text/css">
   body{
   background-color: #F6F5E8;
-  font-size: 13pt;
+  font-size: 14pt;
   font-family: Helvetica;
 }
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
@@ -19,14 +19,6 @@ output:
 img[src$="#round"] {
   margin: 0px;
   border-radius: 2%;
-}
-mark {
-  background-color: black;
-  color: white;
-}
-mark1 {
-  background-color: #C1D093;
-  color: black;
 }
 .btn {
   border: none;
@@ -49,9 +41,6 @@ mark1 {
 
 
 
-
-
-
 ### <b>Dressers</b>
 
 ![](photos/furniture/photo0050.JPG#round){width=49%}
@@ -65,7 +54,7 @@ mark1 {
 
 ![](photos/furniture/photo0048.JPG#round){width=49%}
 ![](photos/furniture/photo0049.JPG#round){width=49%}
-<b>Broyhill Sculptra Lowboy from the 1960's</b>
+Broyhill Sculptra Lowboy from the 1960's
 
 
 ![](photos/furniture/photo0019.JPG#round){width=49%}
@@ -94,7 +83,7 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 ![](photos/furniture/photo0024.JPG#round){width=49%}
 ![](photos/furniture/photo0022.JPG#round){width=49%}
 <center>
-<b>Broyhill Brasilia Round Walnut Pedestal Base Dining Table<b/>
+<b><font size="-1">Broyhill Brasilia Round Walnut Pedestal Base<b/></font>
 
 
 <button data-toggle="collapse" data-target="#demo1" button class="btn success">Show Full <b>Table</b> Collection</button>
@@ -117,7 +106,10 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 ![](photos/furniture/photo0013.JPG#round){width=49%}
 ![](photos/furniture/photo0011.JPG#round){width=49%}
 <center>
-1970's Modular Wall Unit by Lou Hodges in Solid Walnut and Oak
+<font size="-1">
+1970's Modular Wall Unit by Lou Hodges in Walnut and Oak</font>
+
+
 
 <button data-toggle="collapse" data-target="#demo2" button class="btn success">Show Full <b>Hutch & Shelving</b> Collection</button>
 <div id="demo2" class="collapse">
@@ -138,8 +130,9 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 
 ![](photos/furniture/photo0045.JPG#round)
 <center>
-1960's Chromecraft Sculpta Startrek Unicorn Chair with Polished Aluminum Swivel Base
-
+<font size="-1">
+1960's Chromecraft Sculpta Startrek Unicorn Chair
+</font>
 
 <button data-toggle="collapse" data-target="#demo-1" button class="btn success">Show Full <b>Seating</b> Collection</button>
 <div id="demo-1" class="collapse">
@@ -152,8 +145,4 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 ***
 
 ### <b>Beds & Headboards</b>
-
-
-
-
 

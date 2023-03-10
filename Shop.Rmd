@@ -1,0 +1,63 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+  body{
+  background-color: #F6F5E8;
+    font-size: 15pt;
+}
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 2%;
+}
+.btn {
+  border: none;
+  background-color: #C1D093;
+  padding: 14px 28px;
+  font-size: 18px;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 2%;
+}
+.btn:hover {background: #9DAA75;}
+
+.success {color: white;}
+</style>
+
+
+
+
+
+
+<center>
+![](photos/homepage/furniture.png#round){width=49%}
+![](photos/homepage/houseware.png#round){width=49%}
+
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18001806031402346/';" button class="btn success">Shop All <b>Furniture</b></button>
+<div id="demo" class="collapse">
+</div> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17947143565776641/';" button class="btn success">Shop All <b>Houseware</b></button>
+<div id="demo" class="collapse">
+</div>
+<br>
+
+</center>
+
+<center>
+![](photos/homepage/Lighting.png#round){width=49%}
+![](photos/homepage/Art.png#round){width=49%}
+
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18005960851553487/';" button class="btn success">Shop All <b>Lighting</b></button>
+<div id="demo" class="collapse">
+</div> 
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17996285302652525/';" button class="btn success">Shop All <b>Art</b></button>
+<div id="demo" class="collapse">
+</div>
+
+</center>

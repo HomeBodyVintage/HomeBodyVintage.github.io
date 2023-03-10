@@ -14,7 +14,6 @@ img[src$="#round"] {
   margin: 0px;
   border-radius: 2%;
 }
-
 </style>
 
 
