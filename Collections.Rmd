@@ -1,0 +1,105 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+---
+<style type="text/css">
+  body{
+  background-color: #F6F5E8;
+  font-size: 12pt;
+}
+mark {
+  background-color: black;
+  color: white;
+}
+mark1 {
+  background-color: #C1D093;
+  color: black;
+}
+.btn {
+  border: none;
+  background-color: #C1D093;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: grey;}
+
+.success {color: white;}
+
+
+</style>
+<br>
+
+
+### <mark>Dressers</mark>
+
+![](photos/furniture/photo0019.JPG){width=49%}
+![](photos/furniture/photo0021.JPG){width=49%}
+<br>
+
+![](photos/furniture/photo0037(1).JPG){width=49%}
+![](photos/furniture/photo0038.JPG){width=49%}
+1960's Kipp Stewart and Stewart MacDougal Decloration Dresser for Drexel 
+<br>
+
+<button data-toggle="collapse" data-target="#demo" button class="btn success">More Dressers Please!</button>
+<div id="demo" class="collapse">
+  
+![](photos/furniture/photo0015.JPG){width=49%}
+![](photos/furniture/photo0014.JPG){width=49%}
+1960's Broyhill Brasilia Lowboy
+
+![](photos/furniture/photo0016.JPG){width=49%}
+![](photos/furniture/photo0018.JPG){width=49%}
+Mainline by Hooker Reversible Door Walnut & Cane Lowboy
+</div>
+
+<br>
+
+***
+
+### <mark>Tables</mark>
+
+![](photos/furniture/photo0024.JPG){width=49%}
+![](photos/furniture/photo0022.JPG){width=49%}
+Broyhill Brasilia Round Walnut Pedestal Base Dining Table
+
+![](photos/furniture/photo0034.JPG){width=49%}
+![](photos/furniture/photo0036.JPG){width=49%}
+<br>
+<br>
+
+***
+
+### <mark>Hutches & Shelving</mark>
+
+![](photos/furniture/photo0013.JPG){width=49%}
+![](photos/furniture/photo0011.JPG){width=49%}
+1970's Modular Wall Unit by Lou Hodges in Solid Walnut and Oak
+
+![](photos/furniture/photo008.JPG){width=49%}
+![](photos/furniture/photo0010.JPG){width=49%}
+<br>
+
+<button data-toggle="collapse" data-target="#demo" button class="btn success">More Hutches & Shelving Please!</button>
+<div id="demo" class="collapse">
+
+![](photos/furniture/photo0030.JPG){width=49%}
+![](photos/furniture/photo0033.JPG){width=49%}
+</div>
+
+***
+
+<br>
+
+### <mark>Seating</mark>
+
+![](photos/furniture/photo0002.JPG){width=49%}
+![](photos/furniture/photo0005.JPG){width=49%}
+

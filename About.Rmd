@@ -1,5 +1,4 @@
 ---
-title: "About Us"
 output: 
   html_document:
     theme: cosmo
@@ -7,41 +6,23 @@ output:
 
 <style type="text/css">
   body{
-  font-size: 15pt;
   background-color: #F6F5E8;
+    font-size: 15pt;
 }
 img[src$="#round"] {
   display: block;
-  margin: -50px;
+  margin: 0px;
   border-radius: 2%;
 }
-.navbar {
-  min-height: 65px;
-  min-width: 1800px;
-}
+
 </style>
 
-:::: {.columns}
-::: {.column width="50%" align=left}
-![](photos/homepage/joshadri.jpg#round)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-![](photos/homepage/mainimage.JPG#round)
 
-:::
-::: {.column width="50%" align=center}
+![](photos/homepage/joshadri.jpg#round)
+
+<center>
 <font size="+2"><b>About Us</b></font>
 <br>
 <font size="4">We're Josh and Adriana, owners of SLC Vintage Goods LLC.  
 We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and We started our business in 2020 during the pandemic and have been growing ever since! We love what we do and  dkfjis dfi odsjf and ear and jdif lkdjf lkdjf kj fkj kdjk kf kjfk fjk djj j j j j kkjn  k jn nj nj nj nkj o  dkfjis dfi odsjf and ear and jdif lkdjf lkdjf kj </font>
-:::
-::::
-
-
-
-
-
+</center>

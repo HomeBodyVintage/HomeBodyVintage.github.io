@@ -1,0 +1,46 @@
+---
+title: "<img src=\"photos/homepage/logo.PNG\" style=\"float: left;\" width=\"160px\" /> "
+output: 
+  html_document:
+    theme: cosmo
+---
+<style type="text/css">
+  body{
+  font-size: 15pt;
+  background-color: #F6F5E8;
+}
+img[src$="#round"] {
+  margin: 10px auto;
+  border-radius: 2%;
+}
+.navbar {
+  min-height: 65px;
+  min-width: 1800px;
+}
+</style>
+
+<center><font size="+3">SLC Vintage Goods LLC</font>
+<br>
+
+<font size="+1">Vintage Mid-Century Modern Goods</font>
+</center>
+
+<br>
+
+[![](photos/homepage/furniture-main.PNG#round)](https://www.instagram.com/stories/highlights/18001806031402346/)
+
+
+
+<br>
+
+![](photos/homepage/Photo0006.PNG#round){width=49%}
+![](photos/homepage/Lighting.png#round){width=49%}
+![](photos/homepage/Art.png#round){width=49%}
+
+[![](photos/homepage/Photo0006.PNG#round)](https://www.instagram.com/stories/highlights/17947143565776641/){width=33%}
+[![](photos/homepage/Lighting.png#round)](https://www.instagram.com/stories/highlights/18005960851553487/){width=33%}
+[![](photos/homepage/Art.png#round)](https://www.instagram.com/stories/highlights/17996285302652525/){width=33%}
+
+***
+<font size="4"><b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Salt Lake City, UT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(760)625-5431 </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slc.vintagegoods@gmail.com </font>
+
