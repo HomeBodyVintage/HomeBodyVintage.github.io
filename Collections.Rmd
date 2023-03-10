@@ -41,7 +41,7 @@ img[src$="#round"] {
 
 
 
-### <b>Dressers</b>
+### DRESSERS
 
 ![](photos/furniture/photo0050.JPG#round){width=49%}
 ![](photos/furniture/photo0053.JPG#round){width=49%}
@@ -49,7 +49,7 @@ img[src$="#round"] {
 <center>
 
 
-<button data-toggle="collapse" data-target="#demo" button class="btn success">Show Full <b>Dresser</b> Collection</button>
+<button data-toggle="collapse" data-target="#demo" button class="btn success">VIEW <b>DRESSER</b> COLLECTION</button>
 <div id="demo" class="collapse">
 
 ![](photos/furniture/photo0048.JPG#round){width=49%}
@@ -78,7 +78,7 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 
 ***
 
-### <b>Tables</b>
+### TABLES
 
 ![](photos/furniture/photo0024.JPG#round){width=49%}
 ![](photos/furniture/photo0022.JPG#round){width=49%}
@@ -86,32 +86,54 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 <b><font size="-1">Broyhill Brasilia Round Walnut Pedestal Base<b/></font>
 
 
-<button data-toggle="collapse" data-target="#demo1" button class="btn success">Show Full <b>Table</b> Collection</button>
+<button data-toggle="collapse" data-target="#demo1" button class="btn success">VIEW <b>TABLE</b> COLLECTION</button>
 <div id="demo1" class="collapse">
+<br>
+
+![](photos/furniture/photo0082.JPG#round){width=49%}
+![](photos/furniture/photo0080.JPG#round){width=49%}
 <br>
 
 ![](photos/furniture/photo0034.JPG#round){width=49%}
 ![](photos/furniture/photo0036.JPG#round){width=49%}
 <br>
 
-![](photos/furniture/photo0019.JPG#round){width=49%}
-![](photos/furniture/photo0020.JPG#round){width=49%}
+
 </div>
 </center>
 
 ***
 
-### <b>Hutches & Shelving</b>
+
+### SEATING
+
+![](photos/furniture/photo0045.JPG#round)
+<center>
+<font size="-1">
+1960's Chromecraft Sculpta Startrek Chair
+</font>
+
+<button data-toggle="collapse" data-target="#demo-1" button class="btn success">VIEW <b>SEATING</b> COLLECTION</button>
+<div id="demo-1" class="collapse">
+
+![](photos/furniture/photo0002.JPG#round){width=49%}
+![](photos/furniture/photo0005.JPG#round){width=49%}
+</div>
+</center>
+
+***
+
+### HUTCHES & SHELVING
 
 ![](photos/furniture/photo0013.JPG#round){width=49%}
 ![](photos/furniture/photo0011.JPG#round){width=49%}
 <center>
 <font size="-1">
-1970's Modular Wall Unit by Lou Hodges in Walnut and Oak</font>
+1970's Modular Wall Unit by Lou Hodges</font>
 
 
 
-<button data-toggle="collapse" data-target="#demo2" button class="btn success">Show Full <b>Hutch & Shelving</b> Collection</button>
+<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW <b>HUTCH & SHELVING</b> COLLECTION</button>
 <div id="demo2" class="collapse">
 <br>
 
@@ -126,23 +148,16 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 
 ***
 
-### <b>Seating</b>
+### BEDS & HEADBOARDS
 
-![](photos/furniture/photo0045.JPG#round)
+![](photos/furniture/photo0076.JPG#round){width=49%}
+![](photos/furniture/photo0075.JPG#round){width=49%}
+
 <center>
-<font size="-1">
-1960's Chromecraft Sculpta Startrek Unicorn Chair
-</font>
+<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW <b>BED & HEADBOARD</b> COLLECTION</button>
+<div id="demo2" class="collapse">
+<br>
 
-<button data-toggle="collapse" data-target="#demo-1" button class="btn success">Show Full <b>Seating</b> Collection</button>
-<div id="demo-1" class="collapse">
 
-![](photos/furniture/photo0002.JPG#round){width=49%}
-![](photos/furniture/photo0005.JPG#round){width=49%}
 </div>
 </center>
-
-***
-
-### <b>Beds & Headboards</b>
-
