@@ -8,6 +8,8 @@ navbar:
       href: About.html
     - text: "Collections"  
       href: Collections.html
+    - text: "Reviews"
+      href: Reviews.html
   right:
     - icon: fa-instagram
       href: https://instagram.com/slc.vintagegoods/

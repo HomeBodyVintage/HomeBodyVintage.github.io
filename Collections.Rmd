@@ -8,7 +8,17 @@ output:
 <style type="text/css">
   body{
   background-color: #F6F5E8;
-  font-size: 12pt;
+  font-size: 13pt;
+  font-family: Helvetica;
+}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    color: black;
+    background-color: #C1D093 ;
+    border-color: #337ab7;
+}
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 2%;
 }
 mark {
   background-color: black;
@@ -22,84 +32,128 @@ mark1 {
   border: none;
   background-color: #C1D093;
   padding: 14px 28px;
-  font-size: 16px;
+  font-size: 18px;
   cursor: pointer;
   display: inline-block;
+  border-radius: 2%;
 }
-
-/* On mouse-over */
-.btn:hover {background: grey;}
+.btn:hover {background: #9DAA75;}
 
 .success {color: white;}
 
-
 </style>
+
+
+
+
+
+
+
+
+
+
+### <b>Dressers</b>
+
+![](photos/furniture/photo0050.JPG#round){width=49%}
+![](photos/furniture/photo0053.JPG#round){width=49%}
+
+<center>
+
+
+<button data-toggle="collapse" data-target="#demo" button class="btn success">Show Full <b>Dresser</b> Collection</button>
+<div id="demo" class="collapse">
+
+![](photos/furniture/photo0048.JPG#round){width=49%}
+![](photos/furniture/photo0049.JPG#round){width=49%}
+<b>Broyhill Sculptra Lowboy from the 1960's</b>
+
+
+![](photos/furniture/photo0019.JPG#round){width=49%}
+![](photos/furniture/photo0021.JPG#round){width=49%}
 <br>
 
-
-### <mark>Dressers</mark>
-
-![](photos/furniture/photo0019.JPG){width=49%}
-![](photos/furniture/photo0021.JPG){width=49%}
-<br>
-
-![](photos/furniture/photo0037(1).JPG){width=49%}
-![](photos/furniture/photo0038.JPG){width=49%}
+![](photos/furniture/photo0037(1).JPG#round){width=49%}
+![](photos/furniture/photo0038.JPG#round){width=49%}
 1960's Kipp Stewart and Stewart MacDougal Decloration Dresser for Drexel 
 <br>
-
-<button data-toggle="collapse" data-target="#demo" button class="btn success">More Dressers Please!</button>
-<div id="demo" class="collapse">
   
-![](photos/furniture/photo0015.JPG){width=49%}
-![](photos/furniture/photo0014.JPG){width=49%}
+![](photos/furniture/photo0015.JPG#round){width=49%}
+![](photos/furniture/photo0014.JPG#round){width=49%}
 1960's Broyhill Brasilia Lowboy
 
-![](photos/furniture/photo0016.JPG){width=49%}
-![](photos/furniture/photo0018.JPG){width=49%}
+![](photos/furniture/photo0016.JPG#round){width=49%}
+![](photos/furniture/photo0018.JPG#round){width=49%}
 Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 </div>
-
-<br>
-
-***
-
-### <mark>Tables</mark>
-
-![](photos/furniture/photo0024.JPG){width=49%}
-![](photos/furniture/photo0022.JPG){width=49%}
-Broyhill Brasilia Round Walnut Pedestal Base Dining Table
-
-![](photos/furniture/photo0034.JPG){width=49%}
-![](photos/furniture/photo0036.JPG){width=49%}
-<br>
-<br>
+</center>
 
 ***
 
-### <mark>Hutches & Shelving</mark>
+### <b>Tables</b>
 
-![](photos/furniture/photo0013.JPG){width=49%}
-![](photos/furniture/photo0011.JPG){width=49%}
+![](photos/furniture/photo0024.JPG#round){width=49%}
+![](photos/furniture/photo0022.JPG#round){width=49%}
+<center>
+<b>Broyhill Brasilia Round Walnut Pedestal Base Dining Table<b/>
+
+
+<button data-toggle="collapse" data-target="#demo1" button class="btn success">Show Full <b>Table</b> Collection</button>
+<div id="demo1" class="collapse">
+<br>
+
+![](photos/furniture/photo0034.JPG#round){width=49%}
+![](photos/furniture/photo0036.JPG#round){width=49%}
+<br>
+
+![](photos/furniture/photo0019.JPG#round){width=49%}
+![](photos/furniture/photo0020.JPG#round){width=49%}
+</div>
+</center>
+
+***
+
+### <b>Hutches & Shelving</b>
+
+![](photos/furniture/photo0013.JPG#round){width=49%}
+![](photos/furniture/photo0011.JPG#round){width=49%}
+<center>
 1970's Modular Wall Unit by Lou Hodges in Solid Walnut and Oak
 
-![](photos/furniture/photo008.JPG){width=49%}
-![](photos/furniture/photo0010.JPG){width=49%}
+<button data-toggle="collapse" data-target="#demo2" button class="btn success">Show Full <b>Hutch & Shelving</b> Collection</button>
+<div id="demo2" class="collapse">
 <br>
 
-<button data-toggle="collapse" data-target="#demo" button class="btn success">More Hutches & Shelving Please!</button>
-<div id="demo" class="collapse">
+![](photos/furniture/photo008.JPG#round){width=49%}
+![](photos/furniture/photo0010.JPG#round){width=49%}
 
-![](photos/furniture/photo0030.JPG){width=49%}
-![](photos/furniture/photo0033.JPG){width=49%}
+![](photos/furniture/photo0030.JPG#round){width=49%}
+![](photos/furniture/photo0033.JPG#round){width=49%}
+
 </div>
+</center>
 
 ***
 
-<br>
+### <b>Seating</b>
 
-### <mark>Seating</mark>
+![](photos/furniture/photo0045.JPG#round)
+<center>
+1960's Chromecraft Sculpta Startrek Unicorn Chair with Polished Aluminum Swivel Base
 
-![](photos/furniture/photo0002.JPG){width=49%}
-![](photos/furniture/photo0005.JPG){width=49%}
+
+<button data-toggle="collapse" data-target="#demo-1" button class="btn success">Show Full <b>Seating</b> Collection</button>
+<div id="demo-1" class="collapse">
+
+![](photos/furniture/photo0002.JPG#round){width=49%}
+![](photos/furniture/photo0005.JPG#round){width=49%}
+</div>
+</center>
+
+***
+
+### <b>Beds & Headboards</b>
+
+
+
+
 
