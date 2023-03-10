@@ -7,15 +7,38 @@ output:
 <style type="text/css">
   body{
   background-color: #F6F5E8;
-    font-size: 14pt;
+  font-size: 14pt;
 }
-img[src$="#round"] {
-  display: block;
-  margin: 0px;
-  border-radius: 2%;
+mark {
+  background: #B1BF88;
+  border-radius: .1em 0;
 }
-
 </style>
+
+<center>
+
+### <mark>WILL YOU BUY MY VINTAGE FURNITURE?</mark>
+<b>Yes!</b> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
+<br>
+<br>
+
+### <mark>DO YOU HAVE A STOREFRONT?</mark>
+We sell exclusively online and out of our apartment and storage unit in downtown Salt Lake City, UT.
+<br>
+<br>
+
+### <mark>CAN YOU DELIVER?</mark>
+<b>Yes</b>, we offer delivery on all of our items. Send us your zip code and we can provide a quote!
+<br>
+<br>
+
+### <mark>WHEN CAN I PICK UP MY ITEMS?</mark>
+We have flexible schedules and can be available for pickup most weekdays and weekends. We require <b>pickup within 7-days</b> of purchase unless other arrangements have been made.
+<br>
+<br>
+
+### <mark>I CAN'T PICK UP MY ITEM(S) FOR A FEW WEEKS. CAN YOU HOLD FOR EXTENDED PERIODS?</mark>
+Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <b>Arrangements must be made in advance.</b>
 
 ***
 
@@ -25,8 +48,6 @@ Salt Lake City, UT &nbsp; | &nbsp;
 slc.vintagegoods@gmail.com 
 </font>
 <br>
-
-
 
 <a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
