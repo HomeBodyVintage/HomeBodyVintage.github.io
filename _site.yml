@@ -4,14 +4,16 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
-    - text: "SHOP"
-      href: Shop.html
     - text: "ABOUT"
       href: About.html
+    - text: "SHOP"
+      href: Shop.html
     - text: "COLLECTIONS"  
       href: Collections.html
     - text: "REVIEWS"
       href: Reviews.html
+    - text: "FAQ"
+      href: FAQ.html
   right:
     - icon: fa-instagram
       href: https://instagram.com/slc.vintagegoods/
