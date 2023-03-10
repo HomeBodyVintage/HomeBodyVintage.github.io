@@ -6,7 +6,7 @@ output:
 <style type="text/css">
   body{
   background-color: #F6F5E8;
-  font-size: 15pt;
+  font-size: 14pt;
 }
 </style>
 

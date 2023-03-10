@@ -9,7 +9,6 @@ output:
   body{
   background-color: #F6F5E8;
   font-size: 14pt;
-  font-family: Helvetica;
 }
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
     color: black;
@@ -49,7 +48,7 @@ img[src$="#round"] {
 <center>
 
 
-<button data-toggle="collapse" data-target="#demo" button class="btn success">VIEW <b>DRESSER</b> COLLECTION</button>
+<button data-toggle="collapse" data-target="#demo" button class="btn success"><font size="-1">VIEW <b>DRESSER</b> COLLECTION</font></button>
 <div id="demo" class="collapse">
 
 ![](photos/furniture/photo0048.JPG#round){width=49%}
@@ -86,7 +85,7 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 <b><font size="-1">Broyhill Brasilia Round Walnut Pedestal Base<b/></font>
 
 
-<button data-toggle="collapse" data-target="#demo1" button class="btn success">VIEW <b>TABLE</b> COLLECTION</button>
+<button data-toggle="collapse" data-target="#demo1" button class="btn success"><font size="-1">VIEW <b>TABLE</b> COLLECTION</font></button>
 <div id="demo1" class="collapse">
 <br>
 
@@ -113,7 +112,7 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 1960's Chromecraft Sculpta Startrek Chair
 </font>
 
-<button data-toggle="collapse" data-target="#demo-1" button class="btn success">VIEW <b>SEATING</b> COLLECTION</button>
+<button data-toggle="collapse" data-target="#demo-1" button class="btn success"><font size="-1">VIEW <b>SEATING</b> COLLECTION</font></button>
 <div id="demo-1" class="collapse">
 
 ![](photos/furniture/photo0002.JPG#round){width=49%}
@@ -133,7 +132,7 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 
 
 
-<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW <b>HUTCH & SHELVING</b> COLLECTION</button>
+<button data-toggle="collapse" data-target="#demo2" button class="btn success"><font size="-1">VIEW <b>HUTCH & SHELVING</b> COLLECTION</font></button>
 <div id="demo2" class="collapse">
 <br>
 
@@ -154,7 +153,7 @@ Mainline by Hooker Reversible Door Walnut & Cane Lowboy
 ![](photos/furniture/photo0075.JPG#round){width=49%}
 
 <center>
-<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW <b>BED & HEADBOARD</b> COLLECTION</button>
+<button data-toggle="collapse" data-target="#demo2" button class="btn success"><font size="-1">VIEW <b>BED & HEADBOARD</b> COLLECTION</font></button>
 <div id="demo2" class="collapse">
 <br>
 

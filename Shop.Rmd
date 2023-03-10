@@ -7,7 +7,7 @@ output:
 <style type="text/css">
   body{
   background-color: #F6F5E8;
-    font-size: 15pt;
+    font-size: 14pt;
 }
 img[src$="#round"] {
   margin: 0px;
@@ -36,7 +36,7 @@ img[src$="#round"] {
 ![](photos/homepage/furniture.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18001806031402346/';" button class="btn success">Shop All <b>Furniture</b></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18001806031402346/';" button class="btn success"><font size="-1">SHOP ALL <b>FURNITURE</b></font></button>
 <div id="demo" class="collapse">
 </div>
 <br>
@@ -44,7 +44,7 @@ img[src$="#round"] {
 ![](photos/homepage/houseware.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17947143565776641/';" button class="btn success">Shop All <b>Houseware</b></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17947143565776641/';" button class="btn success"><font size="-1">SHOP ALL <b>HOUSEWARE</b></font></button>
 <div id="demo" class="collapse">
 </div>
 <br>
@@ -55,7 +55,7 @@ img[src$="#round"] {
 ![](photos/homepage/Lighting.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18005960851553487/';" button class="btn success">Shop All <b>Lighting</b></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18005960851553487/';" button class="btn success"><font size="-1">SHOP ALL <b>LIGHTING</b></font></button>
 <div id="demo" class="collapse">
 </div> 
 <br>
@@ -63,7 +63,7 @@ img[src$="#round"] {
 ![](photos/homepage/Art.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17996285302652525/';" button class="btn success">Shop All <b>Art</b></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17996285302652525/';" button class="btn success"><font size="-1">SHOP ALL <b>ART</b></font></button>
 <div id="demo" class="collapse">
 </div>
 

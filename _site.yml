@@ -4,13 +4,13 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
-    - text: "Shop"
+    - text: "SHOP"
       href: Shop.html
-    - text: "About"
+    - text: "ABOUT"
       href: About.html
-    - text: "Collections"  
+    - text: "COLLECTIONS"  
       href: Collections.html
-    - text: "Reviews"
+    - text: "REVIEWS"
       href: Reviews.html
   right:
     - icon: fa-instagram
