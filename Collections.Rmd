@@ -66,6 +66,9 @@ img[src$="#round"] {
 
 ![](photos/furniture/photo0072.JPG#round){width=49%}
 ![](photos/furniture/photo0073.JPG#round){width=49%}
+<font size="-1">
+1950's Birchcraft Tallboy Solid Birch
+</font>
 <br>
 
 ![](photos/furniture/photo0016.JPG#round){width=49%}
@@ -119,6 +122,9 @@ img[src$="#round"] {
 
 ![](photos/furniture/photo0082.JPG#round){width=49%}
 ![](photos/furniture/photo0080.JPG#round){width=49%}
+<font size="-1">
+1960's Broyhill Brasilia Dining Table
+</font>
 
 <br>
 
@@ -145,8 +151,23 @@ img[src$="#round"] {
 <div id="demo-1" class="collapse">
 <br>
 
+![](photos/furniture/photo0113.JPG#round){width=49%}
+![](photos/furniture/photo0114.JPG#round){width=49%}
+<font size="-1">
+1970's Chromecraft Smoky Lucite Tulip Dining Chairs
+</font>
+
 ![](photos/furniture/photo0105.JPG#round){width=49%}
 ![](photos/furniture/photo0106.JPG#round){width=49%}
+<font size="-1">
+1960's Broyhill Walnut Dining Chairs
+</font>
+
+![](photos/furniture/photo0109.JPG#round){width=49%}
+![](photos/furniture/photo0110.JPG#round){width=49%}
+<font size="-1">
+1950's Heywood Wakefield Birch Dining Chairs
+</font>
 
 ![](photos/furniture/photo0002.JPG#round){width=49%}
 ![](photos/furniture/photo0005.JPG#round){width=49%}
