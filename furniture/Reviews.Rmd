@@ -1,0 +1,39 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+  body{
+  background-color: #F6F5E8;
+  font-size: 14pt;
+}
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 2%;
+}
+</style>
+
+<center>
+![](photos/reviews/photo0093.JPG#round){width=49%}
+![](photos/reviews/photo0084.JPG#round){width=49%}<br><br>
+![](photos/reviews/photo0085.JPG#round){width=49%}
+![](photos/reviews/photo0086.JPG#round){width=49%}<br><br>
+![](photos/reviews/photo0083.JPG#round){width=49%}
+</center>
+
+***
+
+<center><font size="3">
+Salt Lake City, UT &nbsp; | &nbsp;
+(760)625-5431 &nbsp; | &nbsp;
+slc.vintagegoods@gmail.com 
+</font>
+<br>
+
+
+<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+</center>
