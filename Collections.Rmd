@@ -64,6 +64,10 @@ img[src$="#round"] {
 ![](photos/furniture/photo0049.JPG#round){width=49%}
 <font size="-1">Broyhill Sculptra Lowboy from the 1960's</font>
 
+![](photos/furniture/photo0119.JPG#round){width=49%}
+![](photos/furniture/photo0117.JPG#round){width=49%}
+<font size="-1">1960's Kent Coffee Foreteller Collection</font>
+
 ![](photos/furniture/photo0072.JPG#round){width=49%}
 ![](photos/furniture/photo0073.JPG#round){width=49%}
 <font size="-1">
@@ -188,6 +192,10 @@ img[src$="#round"] {
 
 <button data-toggle="collapse" data-target="#demo2" button class="btn success"><font size="-1">VIEW <b>HUTCH & SHELVING</b> COLLECTION</font></button>
 <div id="demo2" class="collapse">
+<br>
+
+![](photos/furniture/photo0120.JPG#round){width=49%}
+![](photos/furniture/photo0122.JPG#round){width=49%}
 <br>
 
 ![](photos/furniture/photo008.JPG#round){width=49%}
