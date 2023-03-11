@@ -1,0 +1,25 @@
+name: "SLC Vintage Goods LLC"
+navbar:
+  title: "<img src=\"photos/homepage/logo.PNG\" style=\"float: left;\" width=\"35px\"/>"
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "ABOUT"
+      href: About.html
+    - text: "SHOP"
+      href: Shop.html
+    - text: "COLLECTIONS"  
+      href: Collections.html
+    - text: "REVIEWS"
+      href: Reviews.html
+    - text: "FAQ"
+      href: FAQ.html
+  right:
+    - icon: fa-instagram
+      href: https://instagram.com/slc.vintagegoods/
+    - icon: fa-pinterest
+      href: https://www.pinterest.com/adrianaacastilllo/
+    - icon: fa-etsy
+      href: https://etsy.com/shop/SLCVintageGoods/
+    - icon: fa-github
+      href: https://github.com/slcvintagegoods

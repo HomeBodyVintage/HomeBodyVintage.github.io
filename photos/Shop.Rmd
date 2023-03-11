@@ -1,0 +1,89 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+---
+
+<style type="text/css">
+  body{
+  background-color: #F6F5E8;
+    font-size: 14pt;
+}
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 2%;
+}
+.btn {
+  border: none;
+  background-color: #B1BF88;
+  padding: 14px 28px;
+  font-size: 18px;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 2%;
+}
+.btn:hover {background: #899566;}
+
+.success {color: white;}
+</style>
+
+
+
+
+
+
+<center>
+![](photos/homepage/furniture.png#round)
+<br>
+
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18001806031402346/';" button class="btn success"><font size="-1">SHOP ALL <b>FURNITURE</b></font></button>
+<div id="demo" class="collapse">
+</div>
+
+***
+
+![](photos/homepage/houseware.png#round)
+<br>
+
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17947143565776641/';" button class="btn success"><font size="-1">SHOP ALL <b>HOUSEWARE</b></font></button>
+<div id="demo" class="collapse">
+</div>
+
+***
+
+</center>
+
+<center>
+![](photos/homepage/Lighting.png#round)
+<br>
+
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18005960851553487/';" button class="btn success"><font size="-1">SHOP ALL <b>LIGHTING</b></font></button>
+<div id="demo" class="collapse">
+</div> 
+
+***
+
+![](photos/homepage/Art.png#round)
+<br>
+
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17996285302652525/';" button class="btn success"><font size="-1">SHOP ALL <b>ART</b></font></button>
+<div id="demo" class="collapse">
+</div>
+
+</center>
+
+***
+
+<center><font size="3">
+Salt Lake City, UT &nbsp; | &nbsp;
+(760)625-5431 &nbsp; | &nbsp;
+slc.vintagegoods@gmail.com 
+</font>
+<br>
+
+
+
+<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+</center>
