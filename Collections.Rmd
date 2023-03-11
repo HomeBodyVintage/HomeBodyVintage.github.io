@@ -58,6 +58,7 @@ img[src$="#round"] {
 
 <button data-toggle="collapse" data-target="#demo" button class="btn success"><font size="-1">VIEW <b>DRESSER</b> COLLECTION</font></button>
 <div id="demo" class="collapse">
+<br>
 
 ![](photos/furniture/photo0048.JPG#round){width=49%}
 ![](photos/furniture/photo0049.JPG#round){width=49%}
@@ -142,6 +143,10 @@ img[src$="#round"] {
 
 <button data-toggle="collapse" data-target="#demo-1" button class="btn success"><font size="-1">VIEW <b>SEATING</b> COLLECTION</font></button>
 <div id="demo-1" class="collapse">
+<br>
+
+![](photos/furniture/photo0105.JPG#round){width=49%}
+![](photos/furniture/photo0106.JPG#round){width=49%}
 
 ![](photos/furniture/photo0002.JPG#round){width=49%}
 ![](photos/furniture/photo0005.JPG#round){width=49%}
@@ -206,6 +211,10 @@ img[src$="#round"] {
 
 <button data-toggle="collapse" data-target="#demo4" button class="btn success"><font size="-1">VIEW <b>BED & HEADBOARD</b> COLLECTION</font></button>
 <div id="demo4" class="collapse">
+<br>
+
+![](photos/furniture/photo0101.JPG#round){width=49%}
+![](photos/furniture/photo0104.JPG#round){width=49%}
 
 </div>
 </center>

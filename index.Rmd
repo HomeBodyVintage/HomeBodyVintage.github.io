@@ -11,7 +11,7 @@ output:
 </style>
 
 
-[![](photos/homepage/furnituremain.png)](https://www.instagram.com/slc.vintagegoods/)
+[![](photos/homepage/mainimage.JPG)](https://www.instagram.com/slc.vintagegoods/)
 
 
 
