@@ -17,7 +17,7 @@ mark {
 
 <center>
 
-### <mark>WILL YOU BUY MY VINTAGE FURNITURE?</mark>
+### <mark>WILL YOU BUY MY VINTAGE <br> FURNITURE?</mark>
 <b>Yes!</b> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
 <br>
 <br>
@@ -37,7 +37,7 @@ We have flexible schedules and can be available for pickup most weekdays and wee
 <br>
 <br>
 
-### <mark>I CAN'T PICK UP MY ITEM(S) FOR A FEW WEEKS. CAN YOU HOLD FOR EXTENDED PERIODS?</mark>
+### <mark>I CAN'T PICK UP MY ITEM(S) FOR A <br> FEW WEEKS. CAN YOU HOLD FOR <br> EXTENDED PERIODS?</mark>
 Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <b>Arrangements must be made in advance.</b>
 
 ***
