@@ -126,7 +126,7 @@ Please [contact us](Contact.html) directly and include the name of the item that
 Will you buy my vintage furniture?
 </summary>
 
-<b>Yes!</b> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
+<b>Yes!</b> We are always looking to purchase new items that fit our style. [Send us](Contact.html) some photos and we'll let you know if we're interested.
 
 </details>
 
