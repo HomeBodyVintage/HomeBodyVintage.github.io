@@ -9,6 +9,12 @@ output:
   background-color: #F6F5E8;
   font-size: 14pt;
 }
+.icon-a {
+    color: #FFF;
+    background: #ed7732;
+    padding: 3px;
+    font-size: 0.8em;
+}
 mark {
   background: #B1BF88;
   border-radius: .1em 0;
@@ -57,7 +63,7 @@ details[open] > summary::before {
 }
 details > summary {
   list-style: none;
-  border: solid 0.5px #B1BF88;
+  border: solid 0.8px #B1BF88;
   border-radius: 0.5rem;
 }
 details[open] > summary {
@@ -65,44 +71,165 @@ details[open] > summary {
   border-bottom-right-radius: 0;
 }
 details[open] > :not(summary) {
-  border-left: solid 0.5px #B1BF88;
-  border-right: solid 0.5px #B1BF88;
+  border-left: solid 0.8px #B1BF88;
+  border-right: solid 0.8px #B1BF88;
 }
 details[open] > :last-child {
   border-bottom: solid 0.5px #B1BF88;
-  border-bottom-left-radius: 0.5rem;
-  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.8rem;
+  border-bottom-right-radius: 0.8rem;
 }
 </style>
 
+
+### <b>BUY</b>
+
 <center>
 
-<details><summary><b>WILL YOU BUY MY VINTAGE <br> FURNITURE?</b></summary>
+<details>
+
+<summary>
+<b>HOW DO I MAKE A PURCHASE <br> THROUGH THE WEBSITE?</b>
+</summary>
+
+Please [contact us](Contact.html) directly and include the name of the item that you're interested in. If you need an item shipped, please include your zip code so we can provide a shipping quote.
+
+<mark>We accept PayPal, Venmo, ApplePay, and Zelle.</mark> If you'd like to add purchase protection by using the "Goods and Services" features of PayPal or Venmo, please add 3% to the purchase price. Sales tax already included in listed price.
+
+</details>
+
+<br>
+
+<details>
+
+<summary><b>CAN YOU DELIVER?</b>
+</summary>
+
+<mark>Yes</mark>, we offer local delivery on all of our items. [Send](Contact.html) us your zip code and we will respond with a delivery quote.
+
+</details>
+
+</center>
+
+***
+
+### <b>SELL</b>
+
+<center>
+
+<details>
+
+<summary>
+<b>WILL YOU BUY MY VINTAGE <br> FURNITURE?</b>
+</summary>
 
 <mark>Yes!</mark> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
+
 </details>
 
+</center>
+
 ***
 
-<details><summary><b>DO YOU HAVE A STOREFRONT?</b></summary>
-<mark>We sell online</mark> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
+### <b>MY ORDER</b>
+
+<center>
+
+<details>
+
+<summary>
+<b>WHERE DO I PICK UP MY ITEM(S)?</b>
+</summary>
+
+All items are available for pickup in downtown Salt Lake City, UT. [Contact us](Contact.html) to make arrangements.
+
 </details>
 
-***
+<br>
 
-<details><summary><b>CAN YOU DELIVER?</b></summary>
-<mark>Yes</mark>, we offer local delivery on all of our items. Send us your zip code and we can provide a quote!</details>
+<details>
+<summary>
+<b>WHEN CAN I PICK UP MY ITEM(S)?</b>
+</summary>
 
-***
+You can pickup your items during normal business hours. We're also available most weekends and can accommodate weekend pickups/deliveries. Arrangements must be made in advance. We require <mark>pickup within 7-days</mark> of purchase unless other arrangements have been made.
 
-<details><summary><b>WHEN CAN I PICK UP MY ITEMS?</b></summary>
-You can pickup your items during normal business hours. We're also available most weekends and can accommodate weekend pickups/deliveries. Arrangements must be made in advance. We require <mark>pickup within 7-days</mark> of purchase unless other arrangements have been made.</details>
+</details>
 
-***
+<br>
 
-<details><summary><b>HOW LONG CAN YOU HOLD <br> MY PURCHASED ITEM(S)? </b></summary>
+<details>
+
+<summary>
+<b>DO YOU OFFER REFUNDS OR <br> EXCHANGES?</b>
+</summary>
+
+<mark>All sales are final.</mark> Please thoroughly read each items description and dimensions, and view all photos. We're happy to provide additional images and/or videos, and answer all questions prior to purchase. Please message us [here](Contact.html) with any questions.
+
+If an item breaks or malfunctions after purchase, SLC Vintage Goods LLC is not responsible for repairs, replacement, or refund. Additionally, refunds or credits are not offered if an item is not wanted due to dimensions. 
+
+</details>
+
+<br>
+
+<details>
+<summary>
+<b>HOW LONG CAN YOU HOLD <br> MY PURCHASED ITEM(S)? </b>
+</summary>
+
 Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <mark>Arrangements must be made in advance.</b></mark>
+
 </details>
+
+</center>
+
+***
+
+### <b>SHIPPING</b>
+
+<center>
+
+<details>
+
+<summary>
+<b>DOES MY ITEM REQUIRE <br> FREIGHT SHIPPING?</b>
+</summary>
+
+<mark>Freight shipping is required on most furniture, lighting and art.</mark> Freight shipping will be fulfilled through FedEx.
+
+Please expect longer shipping transit times for large furniture. It can sometimes take up to four weeks for purchased items to be processed by the freight carrier and have delivery arranged. Delivery times can range, but are on average anywhere from 2-8 weeks after purchase is made.
+
+</details>
+
+<br>
+
+<details>
+<summary><b>HOW WILL MY ITEM BE <br> PACKAGED?</b>
+</summary>
+
+We take great care in packaging our items for shipment. Each piece will be packaged carefully, regardless of shipping method. Freight shipments will be properly secured and wrapped in moving blankets.
+
+Please thoroughly inspect your item(s) upon delivery. In the event that your purchase is damaged during shipping, please take photos of the package and the item, and [contact us](Contact.html) immediately.
+
+</details>
+
+</center>
+
+***
+
+### <b>GENERAL</b>
+
+<center>
+
+<details>
+<summary><b>DO YOU HAVE A STOREFRONT?</b>
+</summary>
+
+<mark>We sell online</mark> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
+
+</details>
+
+</center>
 
 ***
 
@@ -112,8 +239,9 @@ Salt Lake City, UT &nbsp; | &nbsp;
 slc.vintagegoods@gmail.com 
 </font>
 <br>
+
 <font size="5">
-<a  href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a></font>
+<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest" style="color:#f22c2c"></a>&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy icon-a"></a></font>
 </center>

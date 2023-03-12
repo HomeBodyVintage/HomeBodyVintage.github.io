@@ -8,6 +8,12 @@ output:
   background-color: #F6F5E8;
   font-size: 14pt;
 }
+.icon-a {
+    color: #FFF;
+    background: #ed7732;
+    padding: 3px;
+    font-size: 0.8em;
+}
 </style>
 
 
@@ -37,7 +43,6 @@ output:
 [![](photos/homepage/Art.png){width=49%}](AvailableArt.html)
 </center>
 
-***
 
 ***
 
@@ -49,8 +54,8 @@ slc.vintagegoods@gmail.com
 <br>
 
 <font size="5">
-<a  href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a></font>
+<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest" style="color:#f22c2c"></a>&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy icon-a"></a></font>
 </center>
 
