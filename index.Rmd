@@ -11,7 +11,7 @@ output:
 </style>
 
 
-[![](photos/homepage/mainimage.JPG)](https://www.instagram.com/slc.vintagegoods/)
+![](photos/homepage/mainimage.JPG)
 
 
 
@@ -29,12 +29,12 @@ output:
 ```
 
 <center>
-[![](photos/homepage/furniture1.png){width=49%}](Available.html)
-[![](photos/homepage/houseware.png){width=49%}](https://www.instagram.com/stories/highlights/17947143565776641/)
+[![](photos/homepage/furniture1.png){width=49%}](AvailableFurniture.html)
+[![](photos/homepage/houseware.png){width=49%}](AvailableHouseware.html)
 </center>
 <center>
-[![](photos/homepage/Lighting.png){width=49%}](https://www.instagram.com/stories/highlights/18005960851553487/)
-[![](photos/homepage/Art.png){width=49%}](https://www.instagram.com/stories/highlights/17996285302652525/)
+[![](photos/homepage/Lighting.png){width=49%}](AvailableLighting.html)
+[![](photos/homepage/Art.png){width=49%}](AvailableArt.html)
 </center>
 
 ***
