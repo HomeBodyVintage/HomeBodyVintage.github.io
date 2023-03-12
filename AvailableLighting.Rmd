@@ -42,6 +42,82 @@ img[src$="#round"] {
 
 </style>
 
+
+<font size="5"><center>AVAILABLE LIGHTING</center></font>
+
+### BUBBLE LAMP
+
+![](photos/available/available0014.JPG#round)
+<br>
+
+<center>
+![](photos/available/available0015.JPG#round){width=30%}
+![](photos/available/available0016.JPG#round){width=30%}
+![](photos/available/available0017.JPG#round){width=30%}
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo" class="collapse">
+<br>
+
+Price: $175
+
+Dimensions: 15.5" H x 6" Diameter
+
+Mid-century modern bubble beehive lamp made of white molded plastic and wood. In great vintage condition. Shipping available. Please email for more details.
+
+</div>
+</center>
+
+***
+
+### BLACK MARBLE LAMP
+
+![](photos/available/available0018.JPG#round)
+<br>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo1" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo1" class="collapse">
+<br>
+
+Price: $75
+
+Dimensions: 12" H x 5" Diameter
+
+Black marble lamp. In great condition. Shipping available. Please email for more details.
+
+</div>
+</center>
+
+***
+
+### VINTAGE BRASS LAMP
+
+![](photos/available/available0019.JPG#round)
+<br>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo2" class="collapse">
+<br>
+
+Price: $125
+
+Dimensions: 17" H x 6" Diameter
+
+Vintage brass lamp with swinging arm. In great vintage condition. Shipping available. Please email for more details.
+
+</div>
+</center>
+
 ***
 
 <center><font size="3">

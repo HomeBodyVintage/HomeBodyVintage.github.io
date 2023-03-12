@@ -27,6 +27,10 @@ img[src$="#round"] {
   margin: 0px;
   border-radius: 2%;
 }
+mark {
+  background: #B1BF88;
+  border-radius: .1em 0;
+}
 .btn {
   border: none;
   background-color: #B1BF88;
@@ -48,44 +52,214 @@ img[src$="#round"] {
 
 
 
-#### AVAILABLE FURNITURE
+<font size="5"><center>AVAILABLE FURNITURE</center></font>
+
+### CANOPY BED
 
 ![](photos/available/available0002.JPG#round)
+<br>
+
+<center>
+![](photos/available/available0003.JPG#round){width=30%}
+![](photos/available/available0004.JPG#round){width=30%}
+![](photos/available/available0005.JPG#round){width=30%}
+</center>
 
 <center>
 <br>
 
-<button data-toggle="collapse" data-target="#demo" button class="btn success"><font size="-1">VIEW PRICE & DETAILS</font></button>
+<button data-toggle="collapse" data-target="#demo" button class="btn success">VIEW PRICE & DETAILS</button>
 <div id="demo" class="collapse">
 <br>
 
-![](photos/available/available0003.JPG#round){width=33%}
-![](photos/available/available0004.JPG#round){width=33%}
-![](photos/available/available0005.JPG#round){width=33%}
+Price: $975
+
+Dimensions: 90.5" H x 64.5" W x 86"L
+
+Stunning vintage queen-size four poster canopy bedframe by Baker Furniture. Make of solid wood with burl and cane. Bed is very solid and sturdy. Has some minor wear throughout. Bed brakes down into several pieces for easy transportation. Shipping available. Please email for more details. 
 
 </div>
 </center>
-<br>
 
 ***
 
-![](photos/available/available0008.JPG#round){width=49%}
-![](photos/available/available0011.JPG#round){width=49%}
+### CHROMECRAFT CHAIRS
+
+![](photos/furniture/photo0045.JPG#round)
+<br>
+
+<center>
+![](photos/furniture/photo0047.JPG#round){width=30%}
+![](photos/furniture/photo0046.JPG#round){width=30%}
+</center>
+
 <center>
 <br>
 
-<button data-toggle="collapse" data-target="#demo1" button class="btn success"><font size="-1">VIEW PRICE & DETAILS</font></button>
-<div id="demo1" class="collapse">
+<button data-toggle="collapse" data-target="#demo5" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo5" class="collapse">
 <br>
 
-![](photos/available/available0009.JPG#round){width=49%}
-![](photos/available/available0010.JPG#round){width=49%}
+Price: $950 or $500 each
+
+Dimensions: 33.5" H x 22" W x 25" D
+
+Amazing black tufted Vladimir Kagan Sculpta Startrek Unicorn chair with polished aluminum V swivel base by Chromecraft. Chairs are in excellent vintage condition. One of the chairs has one vinyl repair on the back. Shipping available. Please email for more details.
 
 
 </div>
 </center>
+
+***
+
+### GENTLEMAN'S CHEST
+
+![](photos/available/available0008.JPG#round)
 <br>
 
+<center>
+![](photos/available/available0011.JPG#round){width=30%}
+![](photos/available/available0012.JPG#round){width=30%}
+![](photos/available/available0009.JPG#round){width=30%}
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo1" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo1" class="collapse">
+<br>
+
+Price: $1,250
+
+Dimensions: 65.5" H x 40" W x 18.5" D
+
+Stunning mid-century modern large gentleman's chest by American of Martinsville. Has two large doors and five drawers that all slide well. This piece is very sturdy and heavy. Shows some minor signs of wear. Shipping available. Please email for more details.
+
+
+</div>
+</center>
+
+***
+
+### ENTERTAINMENT CENTER
+
+![](photos/available/available0043.JPG#round)
+<br>
+
+<center>
+![](photos/available/available0044.JPG#round){width=30%}
+![](photos/available/available0045.JPG#round){width=30%}
+![](photos/available/available0046.JPG#round){width=30%}
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo3" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo3" class="collapse">
+<br>
+
+Price: $850
+
+Dimensions: 24.5" H x 68.5" W x 16.5" D
+
+Beautiful mid-century modern entertainment center/media console by Syvania Electronics. This is a vintage record player that has been reimagined and restored. Piece is one of a kind and in excellent condition. Shipping available. Please email for more details.
+
+
+</div>
+</center>
+
+***
+### POSTMODERN DRESSER
+
+![](photos/available/available0028.JPG#round)
+<br>
+
+<center>
+![](photos/available/available0032.JPG#round){width=30%}
+![](photos/available/available0033.JPG#round){width=30%}
+![](photos/available/available0034.JPG#round){width=30%}
+<br>
+
+![](photos/available/available0030.JPG#round){width=30%}
+![](photos/available/available0031.JPG#round){width=30%}
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo2" class="collapse">
+<br>
+
+Price: $675
+
+Dimensions: 30" H x 63.5" W x 18" D
+
+Beautiful postmodern dresser by Broyhill Furniture. Dresser is in great condition. All drawers slide well. Small chip on the side. Shipping available. Please email for more photos/details.
+
+</div>
+</center>
+
+***
+### KING HEADBOARD
+
+![](photos/available/available0039.JPG#round)
+<br>
+
+<center>
+![](photos/available/available0040.JPG#round){width=30%}
+![](photos/available/available0041.JPG#round){width=30%}
+![](photos/available/available0042.JPG#round){width=30%}
+<br>
+
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo4" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo4" class="collapse">
+<br>
+
+Price: $325
+
+Dimensions: 39" H x 76.5" W x 3" D
+
+Beautiful king-size mid-century modern walnut headboard. Shows some round circular marks in the finish on both sides. Shipping available. Please message for more details. 
+
+</div>
+</center>
+
+***
+### OAK & CANE BARSTOOLS
+
+![](photos/furniture/photo0005.JPG#round)
+<br>
+
+<center>
+![](photos/furniture/photo0002.JPG#round){width=30%}
+![](photos/furniture/photo0003.JPG#round){width=30%}
+![](photos/furniture/photo0004.JPG#round){width=30%}
+
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo6" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo6" class="collapse">
+<br>
+
+Price: $350
+
+Dimensions: 38" H x 18" W x 18" D
+
+Beautiful mid-century modern caned barstools. Barstools are in good vintage condition, both show some cracks in the finish. Shipping available. Please email for more details. 
+
+</div>
+</center>
 
 
 ***
