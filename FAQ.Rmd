@@ -82,14 +82,14 @@ details[open] > :last-child {
 </style>
 
 
-### <b>BUY</b>
+#### <b>BUY</b>
 
 <center>
 
 <details>
 
 <summary>
-<b>HOW DO I MAKE A PURCHASE <br> THROUGH THE WEBSITE?</b>
+How do I make a purchase?
 </summary>
 
 Please [contact us](Contact.html) directly and include the name of the item that you're interested in. If you need an item shipped, please include your zip code so we can provide a shipping quote.
@@ -102,7 +102,7 @@ Please [contact us](Contact.html) directly and include the name of the item that
 
 <details>
 
-<summary><b>CAN YOU DELIVER?</b>
+<summary>Can you deliver?
 </summary>
 
 <mark>Yes</mark>, we offer local delivery on all of our items. [Send](Contact.html) us your zip code and we will respond with a delivery quote.
@@ -113,14 +113,14 @@ Please [contact us](Contact.html) directly and include the name of the item that
 
 ***
 
-### <b>SELL</b>
+#### <b>SELL</b>
 
 <center>
 
 <details>
 
 <summary>
-<b>WILL YOU BUY MY VINTAGE <br> FURNITURE?</b>
+Will you buy my vintage furniture?
 </summary>
 
 <mark>Yes!</mark> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
@@ -131,14 +131,14 @@ Please [contact us](Contact.html) directly and include the name of the item that
 
 ***
 
-### <b>MY ORDER</b>
+#### <b>MY ORDER</b>
 
 <center>
 
 <details>
 
 <summary>
-<b>WHERE DO I PICK UP MY ITEM(S)?</b>
+Where do I pick up my item(s)?
 </summary>
 
 All items are available for pickup in downtown Salt Lake City, UT. [Contact us](Contact.html) to make arrangements.
@@ -149,7 +149,7 @@ All items are available for pickup in downtown Salt Lake City, UT. [Contact us](
 
 <details>
 <summary>
-<b>WHEN CAN I PICK UP MY ITEM(S)?</b>
+When can I pick up my item(s)?
 </summary>
 
 You can pickup your items during normal business hours. We're also available most weekends and can accommodate weekend pickups/deliveries. Arrangements must be made in advance. We require <mark>pickup within 7-days</mark> of purchase unless other arrangements have been made.
@@ -161,7 +161,7 @@ You can pickup your items during normal business hours. We're also available mos
 <details>
 
 <summary>
-<b>DO YOU OFFER REFUNDS OR <br> EXCHANGES?</b>
+Do you offer refunds or exchanges?
 </summary>
 
 <mark>All sales are final.</mark> Please thoroughly read each items description and dimensions, and view all photos. We're happy to provide additional images and/or videos, and answer all questions prior to purchase. Please message us [here](Contact.html) with any questions.
@@ -174,7 +174,7 @@ If an item breaks or malfunctions after purchase, SLC Vintage Goods LLC is not r
 
 <details>
 <summary>
-<b>HOW LONG CAN YOU HOLD <br> MY PURCHASED ITEM(S)? </b>
+How long can you hold my <br> purchased item(s)? </b>
 </summary>
 
 Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <mark>Arrangements must be made in advance.</b></mark>
@@ -185,14 +185,14 @@ Yes, we can hold your purchased item(s) in our storage unit for up to one month.
 
 ***
 
-### <b>SHIPPING</b>
+#### <b>SHIPPING</b>
 
 <center>
 
 <details>
 
 <summary>
-<b>DOES MY ITEM REQUIRE <br> FREIGHT SHIPPING?</b>
+Does my item require freight <br> shipping?
 </summary>
 
 <mark>Freight shipping is required on most furniture, lighting and art.</mark> Freight shipping will be fulfilled through FedEx.
@@ -204,7 +204,7 @@ Please expect longer shipping transit times for large furniture. It can sometime
 <br>
 
 <details>
-<summary><b>HOW WILL MY ITEM BE <br> PACKAGED?</b>
+<summary>How will my item be packaged?
 </summary>
 
 We take great care in packaging our items for shipment. Each piece will be packaged carefully, regardless of shipping method. Freight shipments will be properly secured and wrapped in moving blankets.
@@ -217,12 +217,12 @@ Please thoroughly inspect your item(s) upon delivery. In the event that your pur
 
 ***
 
-### <b>GENERAL</b>
+#### <b>GENERAL</b>
 
 <center>
 
 <details>
-<summary><b>DO YOU HAVE A STOREFRONT?</b>
+<summary>Do you have a storefront?
 </summary>
 
 <mark>We sell online</mark> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
