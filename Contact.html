@@ -9,14 +9,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Josh Marquardt" />
 
 
-<title>FAQ.knit</title>
+<title>Contact</title>
 
 <script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -297,46 +298,67 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">Contact</h1>
+<h4 class="author">Josh Marquardt</h4>
+<h4 class="date">3/11/2023</h4>
 
 </div>
 
 
 <style type="text/css">
-  body{
-  background-color: #F6F5E8;
-  font-size: 14pt;
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body { background:rgb(30,30,40); }
+form { max-width:420px; margin:50px auto; }
+
+.feedback-input {
+  color:white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: transparent;
+  border:2px solid #CC6666;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
 }
-mark {
-  background: #B1BF88;
-  border-radius: .1em 0;
+
+.feedback-input:focus { border:2px solid #CC4949; }
+
+textarea {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
 }
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#CC6666;
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:white;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:#CC4949; }
 </style>
-<center>
-<div id="will-you-buy-my-vintage-furniture" class="section level4">
-<h4><mark>WILL YOU BUY MY VINTAGE <br> <br> FURNITURE?</mark></h4>
-<p><b>Yes!</b> We are always looking to purchase new items that fit our style. Send us some photos and we’ll let you know if we’re interested. <br> <br></p>
-</div>
-<div id="do-you-have-a-storefront" class="section level4">
-<h4><mark>DO YOU HAVE A STOREFRONT?</mark></h4>
-<p>We sell exclusively online and out of our apartment and storage unit in downtown Salt Lake City, UT. <br> <br></p>
-</div>
-<div id="can-you-deliver" class="section level4">
-<h4><mark>CAN YOU DELIVER?</mark></h4>
-<p><b>Yes</b>, we offer delivery on all of our items. Send us your zip code and we can provide a quote! <br> <br></p>
-</div>
-<div id="when-can-i-pick-up-my-items" class="section level4">
-<h4><mark>WHEN CAN I PICK UP MY ITEMS?</mark></h4>
-<p>We have flexible schedules and can be available for pickup most weekdays and weekends. We require <b>pickup within 7-days</b> of purchase unless other arrangements have been made. <br> <br></p>
-</div>
-<div id="i-cant-pick-up-my-items-for-a-few-weeks.-can-you-hold-for-extended-periods" class="section level4">
-<h4><mark>I CAN’T PICK UP MY ITEM(S) FOR A <br> <br> FEW WEEKS. CAN YOU HOLD FOR <br> <br> EXTENDED PERIODS?</mark></h4>
-<p>Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <b>Arrangements must be made in advance.</b></p>
-<hr />
-<center>
-<p><font size="3"> Salt Lake City, UT   |   (760)625-5431   |   <a href="mailto:slc.vintagegoods@gmail.com" class="email">slc.vintagegoods@gmail.com</a> </font> <br></p>
-<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>    <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>    <a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
-</center>
-</div>
+<form action="https://formsubmit.co/slc.vintagegoods@gmail.com" method="POST">
+<input name="name" type="text" class="feedback-input" placeholder="Name" /><br />
+<input name="email" type="text" class="feedback-input" placeholder="Email" />
+<textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+<input type="submit" name = "email" value="SUBMIT"/>
+</form>
 
 
 
