@@ -14,7 +14,7 @@ navbar:
       href: Reviews.html
     - text: "FAQ"
       href: FAQ.html
-    - text: "Contact"
+    - text: "CONTACT"
       href: Contact.html
   right:
     - icon: fa-instagram
