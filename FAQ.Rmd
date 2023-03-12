@@ -63,16 +63,21 @@ details[open] > summary::before {
 }
 details > summary {
   list-style: none;
-  border: solid 0.8px #B1BF88;
+  border: solid 0.8px #bdbdaa;
   border-radius: 0.5rem;
+  background: #c7c79d;
 }
 details[open] > summary {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
+  background: #c7c79d;
+
 }
 details[open] > :not(summary) {
-  border-left: solid 0.8px #B1BF88;
-  border-right: solid 0.8px #B1BF88;
+  border-left: solid 0.8px #bdbdaa;
+  border-right: solid 0.8px #bdbdaa;
+  background: white;
+
 }
 details[open] > :last-child {
   border-bottom: solid 0.5px #B1BF88;
@@ -82,7 +87,7 @@ details[open] > :last-child {
 </style>
 
 
-#### <b>BUY</b>
+### BUY
 
 <center>
 
@@ -92,9 +97,7 @@ details[open] > :last-child {
 How do I make a purchase?
 </summary>
 
-Please [contact us](Contact.html) directly and include the name of the item that you're interested in. If you need an item shipped, please include your zip code so we can provide a shipping quote.
-
-<mark>We accept PayPal, Venmo, ApplePay, and Zelle.</mark> If you'd like to add purchase protection by using the "Goods and Services" features of PayPal or Venmo, please add 3% to the purchase price. Sales tax already included in listed price.
+Please [contact us](Contact.html) directly and include the name of the item that you're interested in. If you need an item shipped, please include your zip code so we can provide a shipping quote.<b> We accept PayPal, Venmo, ApplePay, and Zelle.</b> If you'd like to add purchase protection by using the "Goods and Services" features of PayPal or Venmo, please add 3% to the purchase price. Sales tax already included in listed price.
 
 </details>
 
@@ -105,7 +108,7 @@ Please [contact us](Contact.html) directly and include the name of the item that
 <summary>Can you deliver?
 </summary>
 
-<mark>Yes</mark>, we offer local delivery on all of our items. [Send](Contact.html) us your zip code and we will respond with a delivery quote.
+<b>Yes</b>, we offer local delivery on all of our items. [Send](Contact.html) us your zip code and we will respond with a delivery quote.
 
 </details>
 
@@ -113,7 +116,7 @@ Please [contact us](Contact.html) directly and include the name of the item that
 
 ***
 
-#### <b>SELL</b>
+### SELL
 
 <center>
 
@@ -123,7 +126,7 @@ Please [contact us](Contact.html) directly and include the name of the item that
 Will you buy my vintage furniture?
 </summary>
 
-<mark>Yes!</mark> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
+<b>Yes!</b> We are always looking to purchase new items that fit our style. Send us some photos and we'll let you know if we're interested.
 
 </details>
 
@@ -131,7 +134,7 @@ Will you buy my vintage furniture?
 
 ***
 
-#### <b>MY ORDER</b>
+### MY ORDER
 
 <center>
 
@@ -152,7 +155,7 @@ All items are available for pickup in downtown Salt Lake City, UT. [Contact us](
 When can I pick up my item(s)?
 </summary>
 
-You can pickup your items during normal business hours. We're also available most weekends and can accommodate weekend pickups/deliveries. Arrangements must be made in advance. We require <mark>pickup within 7-days</mark> of purchase unless other arrangements have been made.
+You can pickup your items during normal business hours. We're also available most weekends and can accommodate weekend pickups/deliveries. Arrangements must be made in advance. We require <b>pickup within 7-days</b> of purchase unless other arrangements have been made.
 
 </details>
 
@@ -164,9 +167,7 @@ You can pickup your items during normal business hours. We're also available mos
 Do you offer refunds or exchanges?
 </summary>
 
-<mark>All sales are final.</mark> Please thoroughly read each items description and dimensions, and view all photos. We're happy to provide additional images and/or videos, and answer all questions prior to purchase. Please message us [here](Contact.html) with any questions.
-
-If an item breaks or malfunctions after purchase, SLC Vintage Goods LLC is not responsible for repairs, replacement, or refund. Additionally, refunds or credits are not offered if an item is not wanted due to dimensions. 
+<b>All sales are final.</b> Please thoroughly read each items description and dimensions, and view all photos. We're happy to provide additional images and/or videos, and answer all questions prior to purchase. Please message us [here](Contact.html) with any questions. If an item breaks or malfunctions after purchase, SLC Vintage Goods LLC is not responsible for repairs, replacement, or refund. Additionally, refunds or credits are not offered if an item is not wanted due to dimensions. 
 
 </details>
 
@@ -177,7 +178,7 @@ If an item breaks or malfunctions after purchase, SLC Vintage Goods LLC is not r
 How long can you hold my <br> purchased item(s)? </b>
 </summary>
 
-Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <mark>Arrangements must be made in advance.</b></mark>
+Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <b>Arrangements must be made in advance.</b></b>
 
 </details>
 
@@ -185,7 +186,7 @@ Yes, we can hold your purchased item(s) in our storage unit for up to one month.
 
 ***
 
-#### <b>SHIPPING</b>
+### SHIPPING
 
 <center>
 
@@ -195,9 +196,7 @@ Yes, we can hold your purchased item(s) in our storage unit for up to one month.
 Does my item require freight <br> shipping?
 </summary>
 
-<mark>Freight shipping is required on most furniture, lighting and art.</mark> Freight shipping will be fulfilled through FedEx.
-
-Please expect longer shipping transit times for large furniture. It can sometimes take up to four weeks for purchased items to be processed by the freight carrier and have delivery arranged. Delivery times can range, but are on average anywhere from 2-8 weeks after purchase is made.
+<b>Freight shipping is required on most furniture, lighting and art.</b> Freight shipping will be fulfilled through FedEx. Please expect longer shipping transit times for large furniture. It can sometimes take up to four weeks for purchased items to be processed by the freight carrier and have delivery arranged. Delivery times can range, but are on average anywhere from 2-8 weeks after purchase is made.
 
 </details>
 
@@ -207,9 +206,7 @@ Please expect longer shipping transit times for large furniture. It can sometime
 <summary>How will my item be packaged?
 </summary>
 
-We take great care in packaging our items for shipment. Each piece will be packaged carefully, regardless of shipping method. Freight shipments will be properly secured and wrapped in moving blankets.
-
-Please thoroughly inspect your item(s) upon delivery. In the event that your purchase is damaged during shipping, please take photos of the package and the item, and [contact us](Contact.html) immediately.
+We take great care in packaging our items for shipment. Each piece will be packaged carefully, regardless of shipping method. Freight shipments will be properly secured and wrapped in moving blankets. Please thoroughly inspect your item(s) upon delivery. In the event that your purchase is damaged during shipping, please take photos of the package and the item, and [contact us](Contact.html) immediately.
 
 </details>
 
@@ -217,7 +214,7 @@ Please thoroughly inspect your item(s) upon delivery. In the event that your pur
 
 ***
 
-#### <b>GENERAL</b>
+### GENERAL
 
 <center>
 
@@ -225,7 +222,7 @@ Please thoroughly inspect your item(s) upon delivery. In the event that your pur
 <summary>Do you have a storefront?
 </summary>
 
-<mark>We sell online</mark> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
+<b>We sell online</b> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
 
 </details>
 
