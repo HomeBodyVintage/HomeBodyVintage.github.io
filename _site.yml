@@ -2,8 +2,6 @@ name: "SLC Vintage Goods LLC"
 navbar:
   title: "<img src=\"photos/homepage/logo.PNG\" style=\"float: left;\" width=\"35px\"/>"
   left:
-    - icon: fa-home
-      href: index.html
     - text: "SHOP"
       menu:
       - text: "FURNITURE"
@@ -14,8 +12,6 @@ navbar:
         href: AvailableLighting.html
       - text: "ART"
         href: AvailableArt.html  
-      - text: "SHOP ALL"
-        href: Shop.html   
       - text: "ARCHIVE"
         href: Archive.html  
     - text: "DISCOVER"
