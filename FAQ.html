@@ -331,47 +331,106 @@ mark {
   background: #B1BF88;
   border-radius: .1em 0;
 }
+details > summary::-webkit-details-marker {
+  display: none;
+}
+details > summary {
+  list-style: none;
+}
+details > summary:focus {
+  outline: none;
+}
+details > summary::before {
+  content: "";
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  border: solid 2px black;
+  border-left-color: transparent;
+  border-bottom-color: transparent;
+  margin-right: 0.6rem;
+  transform: rotate(-45deg);
+}
+details[open] > summary::before {
+  transform: rotate(135deg);
+}
+details > summary::before {
+  /* all the other styles */
+  transition: transform 0.2s;
+}
+details > summary::before {
+  content: "";
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  border: solid 1px black;
+  border-left-color: transparent;
+  border-bottom-color: transparent;
+  margin-right: 0.6rem;
+  transition: transform 0.2s;
+  transform: rotate(45deg) translate(-20%, 20%);
+}
+details[open] > summary::before {
+  transform: rotate(135deg) translate(-20%, 20%);
+}
+details > summary {
+  list-style: none;
+  border: solid 0.5px #B1BF88;
+  border-radius: 0.5rem;
+}
+details[open] > summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+details[open] > :not(summary) {
+  border-left: solid 0.5px #B1BF88;
+  border-right: solid 0.5px #B1BF88;
+}
+details[open] > :last-child {
+  border-bottom: solid 0.5px #B1BF88;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
 </style>
 <center>
-<div id="will-you-buy-my-vintage-furniture" class="section level4">
-<h4><mark>WILL YOU BUY MY VINTAGE <br> <br> FURNITURE?</mark></h4>
 <details>
-<b>Yes!</b> We are always looking to purchase new items that fit our style. Send us some photos and we’ll let you know if we’re interested.
+<summary>
+<b>WILL YOU BUY MY VINTAGE <br> FURNITURE?</b>
+</summary>
+<mark>Yes!</mark> We are always looking to purchase new items that fit our style. Send us some photos and we’ll let you know if we’re interested.
 </details>
 <hr />
-</div>
-<div id="do-you-have-a-storefront" class="section level4">
-<h4><mark>DO YOU HAVE A STOREFRONT?</mark></h4>
 <details>
-We sell exclusively online and out of our apartment and storage unit in downtown Salt Lake City, UT.
+<summary>
+<b>DO YOU HAVE A STOREFRONT?</b>
+</summary>
+<mark>We sell online</mark> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
 </details>
 <hr />
-</div>
-<div id="can-you-deliver" class="section level4">
-<h4><mark>CAN YOU DELIVER?</mark></h4>
 <details>
-<b>Yes</b>, we offer delivery on all of our items. Send us your zip code and we can provide a quote!
+<summary>
+<b>CAN YOU DELIVER?</b>
+</summary>
+<mark>Yes</mark>, we offer local delivery on all of our items. Send us your zip code and we can provide a quote!
 </details>
 <hr />
-</div>
-<div id="when-can-i-pick-up-my-items" class="section level4">
-<h4><mark>WHEN CAN I PICK UP MY ITEMS?</mark></h4>
 <details>
-We have flexible schedules and can be available for pickup most weekdays and weekends. We require <b>pickup within 7-days</b> of purchase unless other arrangements have been made.
+<summary>
+<b>WHEN CAN I PICK UP MY ITEMS?</b>
+</summary>
+You can pickup your items during normal business hours. We’re also available most weekends and can accommodate weekend pickups/deliveries. Arrangements must be made in advance. We require <mark>pickup within 7-days</mark> of purchase unless other arrangements have been made.
 </details>
 <hr />
-</div>
-<div id="i-cant-pick-up-my-items-for-a-few-weeks.-can-you-hold-for-extended-periods" class="section level4">
-<h4><mark>I CAN’T PICK UP MY ITEM(S) FOR A <br> <br> FEW WEEKS. CAN YOU HOLD FOR <br> <br> EXTENDED PERIODS?</mark></h4>
 <details>
-Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <b>Arrangements must be made in advance.</b>
+<summary>
+<b>HOW LONG CAN YOU HOLD <br> MY PURCHASED ITEM(S)? </b>
+</summary>
+Yes, we can hold your purchased item(s) in our storage unit for up to one month. After the first 7-days following your purchase, we charge a storage fee of $10/day. <mark>Arrangements must be made in advance.</b></mark>
 </details>
 <hr />
 <center>
-<p><font size="3"> Salt Lake City, UT   |   (760)625-5431   |   <a href="mailto:slc.vintagegoods@gmail.com" class="email">slc.vintagegoods@gmail.com</a> </font> <br></p>
-<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>    <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>    <a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+<font size="3"> Salt Lake City, UT   |   (760) 625-5431   |   <a href="mailto:slc.vintagegoods@gmail.com" class="email">slc.vintagegoods@gmail.com</a> </font> <br> <font size="5"> <a  href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>    <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>    <a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a></font>
 </center>
-</div>
 
 
 

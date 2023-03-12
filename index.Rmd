@@ -39,17 +39,18 @@ output:
 
 ***
 
+***
+
 <center><font size="3">
 Salt Lake City, UT &nbsp; | &nbsp;
-(760)625-5431 &nbsp; | &nbsp;
+(760) 625-5431 &nbsp; | &nbsp;
 slc.vintagegoods@gmail.com 
 </font>
 <br>
 
-
-
-<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
+<font size="5">
+<a  href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a></font>
 </center>
 
