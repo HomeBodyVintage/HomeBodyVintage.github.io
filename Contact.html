@@ -250,20 +250,50 @@ $(document).ready(function () {
      
   </a>
 </li>
-<li>
-  <a href="About.html">ABOUT</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    SHOP
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="AvailableFurniture.html">FURNITURE</a>
+    </li>
+    <li>
+      <a href="AvailableHouseware.html">HOUSEWARE</a>
+    </li>
+    <li>
+      <a href="AvailableLighting.html">LIGHTING</a>
+    </li>
+    <li>
+      <a href="AvailableArt.html">ART</a>
+    </li>
+    <li>
+      <a href="Shop.html">SHOP ALL</a>
+    </li>
+    <li>
+      <a href="Archive.html">ARCHIVE</a>
+    </li>
+  </ul>
 </li>
-<li>
-  <a href="Shop.html">SHOP</a>
-</li>
-<li>
-  <a href="Collections.html">COLLECTIONS</a>
-</li>
-<li>
-  <a href="Reviews.html">REVIEWS</a>
-</li>
-<li>
-  <a href="FAQ.html">FAQ</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    DISCOVER
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="About.html">ABOUT</a>
+    </li>
+    <li>
+      <a href="Reviews.html">REVIEWS</a>
+    </li>
+    <li>
+      <a href="FAQ.html">FAQ</a>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="Contact.html">CONTACT</a>
@@ -305,7 +335,7 @@ $(document).ready(function () {
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 body { background: #F6F5E8; font-size: 14pt;}
-form { max-width:420px; margin:50px auto; }
+form { max-width:420px; margin:10px auto; }
 
 .feedback-input {
   color:black;
@@ -315,7 +345,7 @@ form { max-width:420px; margin:50px auto; }
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #899566;
+  border:1px solid #899566;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -324,7 +354,7 @@ form { max-width:420px; margin:50px auto; }
   outline:0;
 }
 
-.feedback-input:focus { border:2px solid #B1BF88; }
+.feedback-input:focus { border:1px solid #B1BF88; }
 
 textarea {
   height: 150px;
@@ -336,7 +366,7 @@ textarea {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   width: 100%;
   background:#B1BF88;
-  border-radius:5px;
+  border-radius:50px;
   border:0;
   cursor:pointer;
   color:black;
@@ -350,13 +380,13 @@ textarea {
 [type="submit"]:hover { background:#899566; }
 </style>
 <center>
-<font size="5">CONTACT US</font>
+<font size="5"><b>Get in Touch</b></font>
 </center>
 <form action="https://formspree.io/f/xnqyzvnl" method="POST">
 <input name="name" type="text" class="feedback-input" placeholder="Name" /><br />
-<input name="email" type="text" class="feedback-input" placeholder="Email" />
-<textarea name="text" class="feedback-input" placeholder="Type your message here.."></textarea>
-<input type="submit" value="SUBMIT"/>
+<input name="email" type="text" class="feedback-input" placeholder="Email"/> <input name="item" type="text" class="feedback-input" placeholder="Item (if applicable)" />
+<textarea name="text" class="feedback-input" placeholder="Message"></textarea>
+<input type="submit" value="SEND"/>
 </form>
 <hr />
 <center>

@@ -4,16 +4,28 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
-    - text: "ABOUT"
-      href: About.html
     - text: "SHOP"
-      href: Shop.html
-    - text: "COLLECTIONS"  
-      href: Collections.html
-    - text: "REVIEWS"
-      href: Reviews.html
-    - text: "FAQ"
-      href: FAQ.html
+      menu:
+      - text: "FURNITURE"
+        href: AvailableFurniture.html
+      - text: "HOUSEWARE"
+        href: AvailableHouseware.html
+      - text: "LIGHTING"
+        href: AvailableLighting.html
+      - text: "ART"
+        href: AvailableArt.html  
+      - text: "SHOP ALL"
+        href: Shop.html   
+      - text: "ARCHIVE"
+        href: Archive.html  
+    - text: "DISCOVER"
+      menu: 
+      - text: "ABOUT"
+        href: About.html
+      - text: "REVIEWS"
+        href: Reviews.html
+      - text: "FAQ"
+        href: FAQ.html
     - text: "CONTACT"
       href: Contact.html
   right:
