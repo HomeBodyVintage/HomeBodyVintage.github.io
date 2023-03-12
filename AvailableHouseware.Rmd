@@ -88,8 +88,8 @@ Large hand-blown pinched lip cocktail pitcher and 6 trumpet shaped matching glas
 <center>
 <br>
 
-<button data-toggle="collapse" data-target="#demo1" button class="btn success">VIEW PRICE & DETAILS</button>
-<div id="demo1" class="collapse">
+<button data-toggle="collapse" data-target="#demo2" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo2" class="collapse">
 <br>
 
 Price: $55
