@@ -36,7 +36,7 @@ img[src$="#round"] {
 ![](photos/homepage/furniture.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18001806031402346/';" button class="btn success"><font size="-1">SHOP ALL <b>FURNITURE</b></font></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='AvailableFurniture.html';" button class="btn success"><font size="-1">SHOP ALL <b>FURNITURE</b></font></button>
 <div id="demo" class="collapse">
 </div>
 
@@ -45,7 +45,7 @@ img[src$="#round"] {
 ![](photos/homepage/houseware.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17947143565776641/';" button class="btn success"><font size="-1">SHOP ALL <b>HOUSEWARE</b></font></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='AvailableHouseware.html';" button class="btn success"><font size="-1">SHOP ALL <b>HOUSEWARE</b></font></button>
 <div id="demo" class="collapse">
 </div>
 
@@ -57,7 +57,7 @@ img[src$="#round"] {
 ![](photos/homepage/Lighting.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/18005960851553487/';" button class="btn success"><font size="-1">SHOP ALL <b>LIGHTING</b></font></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='AvailableLighting.html';" button class="btn success"><font size="-1">SHOP ALL <b>LIGHTING</b></font></button>
 <div id="demo" class="collapse">
 </div> 
 
@@ -66,7 +66,7 @@ img[src$="#round"] {
 ![](photos/homepage/Art.png#round)
 <br>
 
-<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='https://www.instagram.com/stories/highlights/17996285302652525/';" button class="btn success"><font size="-1">SHOP ALL <b>ART</b></font></button>
+<button data-toggle="collapse" data-target="#demo" onclick="window.location.href='AvailableArt.html';" button class="btn success"><font size="-1">SHOP ALL <b>ART</b></font></button>
 <div id="demo" class="collapse">
 </div>
 

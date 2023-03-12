@@ -1,0 +1,106 @@
+---
+output: 
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+---
+
+```{css, echo=FALSE}
+h1, #TOC>ul>li {
+  color: white;
+  background: #9DAA75;
+}
+```
+
+<style type="text/css">
+body{
+  background-color: #F6F5E8;
+  font-size: 14pt;
+}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    color: black;
+    background-color: #C1D093 ;
+    border-color: #337ab7;
+}
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 2%;
+}
+.btn {
+  border: none;
+  background-color: #B1BF88;
+  padding: 14px 28px;
+  font-size: 18px;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 2%;
+}
+.btn:hover {background: #899566;}
+
+.success {color: white;}
+
+</style>
+
+
+
+
+
+
+
+#### AVAILABLE FURNITURE
+
+![](photos/available/available0002.JPG#round)
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo" button class="btn success"><font size="-1">VIEW PRICE & DETAILS</font></button>
+<div id="demo" class="collapse">
+<br>
+
+![](photos/available/available0003.JPG#round){width=33%}
+![](photos/available/available0004.JPG#round){width=33%}
+![](photos/available/available0005.JPG#round){width=33%}
+
+</div>
+</center>
+<br>
+
+***
+
+![](photos/available/available0008.JPG#round){width=49%}
+![](photos/available/available0011.JPG#round){width=49%}
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo1" button class="btn success"><font size="-1">VIEW PRICE & DETAILS</font></button>
+<div id="demo1" class="collapse">
+<br>
+
+![](photos/available/available0009.JPG#round){width=49%}
+![](photos/available/available0010.JPG#round){width=49%}
+
+
+</div>
+</center>
+<br>
+
+
+
+***
+
+<center><font size="3">
+Salt Lake City, UT &nbsp; | &nbsp;
+(760)625-5431 &nbsp; | &nbsp;
+slc.vintagegoods@gmail.com 
+</font>
+<br>
+
+
+
+<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+</center>
+

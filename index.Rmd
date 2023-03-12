@@ -29,7 +29,7 @@ output:
 ```
 
 <center>
-[![](photos/homepage/furniture1.png){width=49%}](https://www.instagram.com/stories/highlights/18001806031402346/)
+[![](photos/homepage/furniture1.png){width=49%}](Available.html)
 [![](photos/homepage/houseware.png){width=49%}](https://www.instagram.com/stories/highlights/17947143565776641/)
 </center>
 <center>
