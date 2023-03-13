@@ -54,7 +54,6 @@ mark {
 
 
 
-
 <font size="5"><center>AVAILABLE FURNITURE</center></font>
 
 ### CANOPY BED
@@ -63,9 +62,9 @@ mark {
 <br>
 
 <center>
-![](photos/available/available0003.JPG#round){width=30%}
-![](photos/available/available0004.JPG#round){width=30%}
-![](photos/available/available0005.JPG#round){width=30%}
+[![](photos/available/available0003.JPG#round){.img-thumbnail width=30%}](photos/available/available0003.JPG#round)
+[![](photos/available/available0004.JPG#round){.img-thumbnail width=30%}](photos/available/available0004.JPG#round)
+[![](photos/available/available0005.JPG#round){.img-thumbnail width=30%}](photos/available/available0005.JPG#round)
 </center>
 
 <center>
@@ -92,8 +91,8 @@ Stunning vintage queen-size four poster canopy bedframe by Baker Furniture. Make
 <br>
 
 <center>
-![](photos/furniture/photo0047.JPG#round){width=30%}
-![](photos/furniture/photo0046.JPG#round){width=30%}
+[![](photos/furniture/photo0047.JPG#round){.img-thumbnail width=30%}](photos/furniture/photo0047.JPG#round)
+[![](photos/furniture/photo0046.JPG#round){.img-thumbnail width=30%}](photos/furniture/photo0046.JPG#round)
 </center>
 
 <center>
@@ -121,9 +120,9 @@ Amazing black tufted Vladimir Kagan Sculpta Startrek Unicorn chair with polished
 <br>
 
 <center>
-![](photos/available/available0011.JPG#round){width=30%}
-![](photos/available/available0012.JPG#round){width=30%}
-![](photos/available/available0009.JPG#round){width=30%}
+[![](photos/available/available0011.JPG#round){.img-thumbnail width=30%}](photos/available/available0011.JPG#round)
+[![](photos/available/available0012.JPG#round){.img-thumbnail width=30%}](photos/available/available0012.JPG#round)
+[![](photos/available/available0009.JPG#round){.img-thumbnail width=30%}](photos/available/available0009.JPG#round)
 </center>
 
 <center>
@@ -151,9 +150,9 @@ Stunning mid-century modern large gentleman's chest by American of Martinsville.
 <br>
 
 <center>
-![](photos/available/available0044.JPG#round){width=30%}
-![](photos/available/available0045.JPG#round){width=30%}
-![](photos/available/available0046.JPG#round){width=30%}
+[![](photos/available/available0044.JPG#round){.img-thumbnail width=30%}](photos/available/available0044.JPG#round)
+[![](photos/available/available0045.JPG#round){.img-thumbnail width=30%}](photos/available/available0045.JPG#round)
+[![](photos/available/available0046.JPG#round){.img-thumbnail width=30%}](photos/available/available0046.JPG#round)
 </center>
 
 <center>
@@ -180,13 +179,13 @@ Beautiful mid-century modern entertainment center/media console by Syvania Elect
 <br>
 
 <center>
-![](photos/available/available0032.JPG#round){width=30%}
-![](photos/available/available0033.JPG#round){width=30%}
-![](photos/available/available0034.JPG#round){width=30%}
+[![](photos/available/available0032.JPG#round){.img-thumbnail width=30%}](photos/available/available0032.JPG#round)
+[![](photos/available/available0033.JPG#round){.img-thumbnail width=30%}](photos/available/available0033.JPG#round)
+[![](photos/available/available0034.JPG#round){.img-thumbnail width=30%}](photos/available/available0034.JPG#round)
 <br>
 
-![](photos/available/available0030.JPG#round){width=30%}
-![](photos/available/available0031.JPG#round){width=30%}
+[![](photos/available/available0030.JPG#round){.img-thumbnail width=30%}](photos/available/available0030.JPG#round)
+[![](photos/available/available0031.JPG#round){.img-thumbnail width=30%}](photos/available/available0031.JPG#round)
 </center>
 
 <center>
@@ -212,9 +211,9 @@ Beautiful postmodern dresser by Broyhill Furniture. Dresser is in great conditio
 <br>
 
 <center>
-![](photos/available/available0040.JPG#round){width=30%}
-![](photos/available/available0041.JPG#round){width=30%}
-![](photos/available/available0042.JPG#round){width=30%}
+[![](photos/available/available0040.JPG#round){.img-thumbnail width=30%}](photos/available/available0040.JPG#round)
+[![](photos/available/available0041.JPG#round){.img-thumbnail width=30%}](photos/available/available0041.JPG#round)
+[![](photos/available/available0042.JPG#round){.img-thumbnail width=30%}](photos/available/available0042.JPG#round)
 <br>
 
 </center>
@@ -242,9 +241,9 @@ Beautiful king-size mid-century modern walnut headboard. Shows some round circul
 <br>
 
 <center>
-![](photos/furniture/photo0002.JPG#round){width=30%}
-![](photos/furniture/photo0003.JPG#round){width=30%}
-![](photos/furniture/photo0004.JPG#round){width=30%}
+[![](photos/furniture/photo0002.JPG#round){.img-thumbnail width=30%}](photos/furniture/photo0002.JPG#round)
+[![](photos/furniture/photo0003.JPG#round){.img-thumbnail width=30%}](photos/furniture/photo0003.JPG#round)
+[![](photos/furniture/photo0004.JPG#round){.img-thumbnail width=30%}](photos/furniture/photo0004.JPG#round)
 
 </center>
 

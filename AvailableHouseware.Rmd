@@ -56,9 +56,9 @@ img[src$="#round"] {
 <br>
 
 <center>
-![](photos/available/available0036.JPG#round){width=30%}
-![](photos/available/available0037.JPG#round){width=30%}
-![](photos/available/available0038.JPG#round){width=30%}
+[![](photos/available/available0036.JPG#round){.img-thumbnail width=30%}](photos/available/available0036.JPG#round)
+[![](photos/available/available0037.JPG#round){.img-thumbnail width=30%}](photos/available/available0037.JPG#round)
+[![](photos/available/available0038.JPG#round){.img-thumbnail width=30%}](photos/available/available0038.JPG#round)
 </center>
 
 <center>
@@ -86,9 +86,9 @@ Large hand-blown pinched lip cocktail pitcher and 6 trumpet shaped matching glas
 <br>
 
 <center>
-![](photos/available/available0020.JPG#round){width=30%}
-![](photos/available/available0022.JPG#round){width=30%}
-![](photos/available/available0023.JPG#round){width=30%}
+[![](photos/available/available0020.JPG#round){.img-thumbnail width=30%}](photos/available/available0020.JPG#round)
+[![](photos/available/available0022.JPG#round){.img-thumbnail width=30%}](photos/available/available0022.JPG#round)
+[![](photos/available/available0023.JPG#round){.img-thumbnail width=30%}](photos/available/available0023.JPG#round)
 </center>
 
 <center>
@@ -116,9 +116,9 @@ Vintage green Libby Carrington square rocks glasses. Set is in excellent vintage
 <br>
 
 <center>
-![](photos/available/available0025.JPG#round){width=30%}
-![](photos/available/available0026.JPG#round){width=30%}
-![](photos/available/available0027.JPG#round){width=30%}
+[![](photos/available/available0025.JPG#round){.img-thumbnail width=30%}](photos/available/available0025.JPG#round)
+[![](photos/available/available0026.JPG#round){.img-thumbnail width=30%}](photos/available/available0026.JPG#round)
+[![](photos/available/available0027.JPG#round){.img-thumbnail width=30%}](photos/available/available0027.JPG#round)
 </center>
 
 <center>

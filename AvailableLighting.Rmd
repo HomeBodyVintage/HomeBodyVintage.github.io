@@ -57,9 +57,9 @@ img[src$="#round"] {
 <br>
 
 <center>
-![](photos/available/available0015.JPG#round){width=30%}
-![](photos/available/available0016.JPG#round){width=30%}
-![](photos/available/available0017.JPG#round){width=30%}
+[![](photos/available/available0015.JPG#round){.img-thumbnail width=30%}](photos/available/available0015.JPG#round)
+[![](photos/available/available0016.JPG#round){.img-thumbnail width=30%}](photos/available/available0016.JPG#round)
+[![](photos/available/available0017.JPG#round){.img-thumbnail width=30%}](photos/available/available0017.JPG#round)
 </center>
 
 <center>
