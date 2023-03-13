@@ -18,6 +18,15 @@ body{
   background-color: #F6F5E8;
   font-size: 14pt;
 }
+.box {
+  height: auto;
+  width: 100%;
+  background-color: #f5f5f0;
+  color: black;
+  padding: 30px;
+  border: solid 1px #ab9b8c;
+  border-radius: 5px;
+}
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
     color: black;
     background-color: #C1D093 ;
@@ -30,6 +39,7 @@ img[src$="#round"] {
 .icon-a {
     color: #FFF;
     background: #ed7732;
+    border-radius: 2px;
     padding: 3px;
     font-size: 0.8em;
 }
@@ -48,6 +58,7 @@ img[src$="#round"] {
 
 </style>
 
+<div class="box">
 
 <font size="5"><center>AVAILABLE LIGHTING</center></font>
 
@@ -123,6 +134,8 @@ Vintage brass lamp with swinging arm. In great vintage condition. Shipping avail
 
 </div>
 </center>
+
+</div>
 
 ***
 

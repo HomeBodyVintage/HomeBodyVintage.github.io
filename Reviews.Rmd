@@ -13,13 +13,26 @@ img[src$="#round"] {
   margin: 0px;
   border-radius: 2%;
 }
+.box {
+  height: auto;
+  width: 100%;
+  background-color: #f5f5f0;
+  color: black;
+  padding: 10px;
+  border: solid 1px #ab9b8c;
+  border-radius: 5px;
+}
 .icon-a {
     color: #FFF;
     background: #ed7732;
+    border-radius: 2px;
     padding: 3px;
     font-size: 0.8em;
 }
 </style>
+
+
+<div class="box">
 
 <center>
 ![](photos/reviews/photo0093.JPG#round){width=49%}
@@ -28,6 +41,8 @@ img[src$="#round"] {
 ![](photos/reviews/photo0086.JPG#round){width=49%}<br><br>
 ![](photos/reviews/photo0083.JPG#round){width=49%}
 </center>
+
+</div>
 
 ***
 

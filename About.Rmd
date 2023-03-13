@@ -12,16 +12,27 @@ output:
 img[src$="#round"] {
   display: block;
   margin: 0px;
-  border-radius: 2%;
+  border-radius: 5px;
+}
+.box {
+  height: auto;
+  width: 100%;
+  background-color: #f5f5f0;
+  color: black;
+  padding: 30px;
+  border: solid 1px #ab9b8c;
+  border-radius: 5px;
 }
 .icon-a {
     color: #FFF;
     background: #ed7732;
+    border-radius: 2px;
     padding: 3px;
     font-size: 0.8em;
 }
 </style>
 
+<div class="box">
 
 ![](photos/homepage/joshadri.jpg#round)
 
@@ -38,6 +49,8 @@ Josh, a Wisconsin native, moved to Salt Lake City, UT in 2018 to pursue a M.S in
 
 </font>
 </center>
+
+</div>
 
 ***
 
