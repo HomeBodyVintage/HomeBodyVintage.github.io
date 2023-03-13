@@ -232,8 +232,8 @@ img[src$="#round"] {
 
 ### BEDS & HEADBOARDS
 
-![](photos/furniture/photo0076.JPG#round){width=49%}
-![](photos/furniture/photo0075.JPG#round){width=49%}
+[![](photos/furniture/photo0076.JPG#round){.img-thumbnail width=49%}](photos/furniture/photo0076.JPG#round)
+[![](photos/furniture/photo0075.JPG#round){.img-thumbnail width=49%}](photos/furniture/photo0075.JPG#round)
 <center>
 <font size="-1">
 1980's Postmodern Cream Laquer Headboard</font>
@@ -244,8 +244,8 @@ img[src$="#round"] {
 <div id="demo4" class="collapse">
 <br>
 
-![](photos/furniture/photo0101.JPG#round){width=49%}
-![](photos/furniture/photo0104.JPG#round){width=49%}
+[![](photos/furniture/photo0101.JPG#round){.img-thumbnail width=49%}](photos/furniture/photo0101.JPG#round)
+[![](photos/furniture/photo0104.JPG#round){.img-thumbnail width=49%}](photos/furniture/photo0104.JPG#round)
 
 </div>
 </center>
