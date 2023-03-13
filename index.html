@@ -343,11 +343,64 @@ $(document).ready(function () {
     font-size: 0.8em;
 }
 </style>
+<style type="text/css">
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body { background: #F6F5E8; font-size: 14pt;}
+form { max-width:420px; margin:10px auto; }
+
+.feedback-input {
+  color:black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 18px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: #FEFEFB;
+  border:1px solid #899566;
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:1px solid #B1BF88; }
+
+textarea {
+  height: 150px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#B1BF88;
+  border-radius:50px;
+  border:0;
+  cursor:pointer;
+  color:black;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:#899566; }
+.icon-a {
+    color: #FFF;
+    background: #ed7732;
+    padding: 3px;
+    font-size: 0.8em;
+}
+</style>
 <img src="photos/homepage/mainimage.JPG" />
 <style type="text/css">
 .main-container {
     max-width: 1800px;
-    margin-top: -20px;
 }
 </style>
 <div class="box">
@@ -357,7 +410,18 @@ $(document).ready(function () {
 <center>
 <a href="AvailableLighting.html"><img src="photos/homepage/Lighting.png" style="width:49.0%" /></a> <a href="AvailableArt.html"><img src="photos/homepage/Art.png" style="width:49.0%" /></a>
 </center>
+<p><link href="_site/Contact.html"/></p>
 </div>
+<p><br></p>
+<center>
+<font size="5"><b>Let’s Chat!</b></font>
+</center>
+<form action="https://formspree.io/f/xnqyzvnl" method="POST">
+<input name="name" type="text" class="feedback-input" placeholder="Name" /><br />
+<input name="email" type="text" class="feedback-input" placeholder="Email"/> <input name="item" type="text" class="feedback-input" placeholder="Item (if applicable)" />
+<textarea name="text" class="feedback-input" placeholder="Message"></textarea>
+<input type="submit" value="SEND"/>
+</form>
 <hr />
 <center>
 <p><font size="3"> Salt Lake City, UT   |   (760) 625-5431   |   <a href="mailto:slc.vintagegoods@gmail.com" class="email">slc.vintagegoods@gmail.com</a> </font> <br></p>
