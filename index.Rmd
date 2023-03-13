@@ -17,8 +17,8 @@ output:
   border: solid 1px #d4c496;
 }
 .box1 {
-  height: 50%;
-  width: 50%;
+  height: 75%;
+  width: 75%;
   background-color: #F6F5E8;
   color: black;
   padding: 10px;
