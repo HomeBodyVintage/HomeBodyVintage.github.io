@@ -17,7 +17,7 @@ form { max-width:420px; margin:10px auto; }
   font-size: 18px;
   border-radius: 5px;
   line-height: 22px;
-  background-color: #FAFBF8;
+  background-color: ##FEFEFB;
   border:1px solid #899566;
   transition: all 0.3s;
   padding: 13px;
