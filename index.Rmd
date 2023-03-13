@@ -16,6 +16,13 @@ output:
   padding: 10px;
   border: solid 1px #d4c496;
 }
+.box1 {
+  height: 50%;
+  width: 50%;
+  background-color: #F6F5E8;
+  color: black;
+  padding: 10px;
+}
 .icon-a {
     color: #FFF;
     background: #ed7732;
@@ -104,6 +111,9 @@ textarea {
 
 <br>
 
+<center>
+<div class="box1">
+
 <center><font size="5"><b>Let's Chat!</b></font></center>
 
 <form action="https://formspree.io/f/xnqyzvnl" method="POST"> 
@@ -113,6 +123,9 @@ textarea {
   <textarea name="text" class="feedback-input" placeholder="Message"></textarea>
   <input type="submit" value="SEND"/>
 </form>
+
+</div>
+</center>
 
 ***
 
