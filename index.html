@@ -327,12 +327,16 @@ $(document).ready(function () {
   background-color: #F6F5E8;
   font-size: 14pt;
 }
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 10px;
+}
 .box {
   height: 100%;
   width: 100%;
   background-color: #f5f5f0;
   color: black;
-  padding: 10px;
+  padding: 0px;
   border: solid 1px #d4c496;
 }
 .box1 {
@@ -340,7 +344,7 @@ $(document).ready(function () {
   width: 75%;
   background-color: #F6F5E8;
   color: black;
-  padding: 10px;
+  padding: 0px;
 }
 .icon-a {
     color: #FFF;
@@ -348,6 +352,31 @@ $(document).ready(function () {
     border-radius: 2px;
     padding: 3px;
     font-size: 0.8em;
+}
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 100%;
+}
+
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #B1BF88;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: #B1BF88;
 }
 </style>
 <style type="text/css">
@@ -410,18 +439,24 @@ textarea {
     max-width: 1800px;
 }
 </style>
-<div class="box">
 <center>
-<a href="AvailableFurniture.html"><img src="photos/homepage/furniture1.png" style="width:49.0%" /></a> <a href="AvailableHouseware.html"><img src="photos/homepage/houseware.png" style="width:49.0%" /></a>
-</center>
-<center>
-<a href="AvailableLighting.html"><img src="photos/homepage/Lighting.png" style="width:49.0%" /></a> <a href="AvailableArt.html"><img src="photos/homepage/Art.png" style="width:49.0%" /></a>
-</center>
-<p><link href="_site/Contact.html"/></p>
+<div class="container">
+<p><img src="photos/homepage/furniture1.png" alt="Snow"> <button class="btn" onclick="window.location.href='AvailableFurniture.html';">VIEW AVAILABLE <b>FURNITURE</b></button></p>
 </div>
+<div class="container">
+<p><img src="photos/homepage/houseware.png" alt="Snow"> <button class="btn" onclick="window.location.href='AvailableHouseware.html';">VIEW AVAILABLE <b>HOUSEWARE</b></button></p>
+</div>
+<div class="container">
+<p><img src="photos/homepage/Lighting.png" alt="Snow"> <button class="btn" onclick="window.location.href='AvailableLighting.html';">VIEW AVAILABLE<b>LIGHTING</b></button></p>
+</div>
+<div class="container">
+<p><img src="photos/homepage/Art.png" alt="Snow"> <button class="btn" onclick="window.location.href='AvailableArt.html';">VIEW AVAILABLE <b>ART</b></button></p>
+</div>
+</center>
 <p><br></p>
 <center>
 <div class="box1">
+
 <center>
 <font size="5"><b>Let’s Chat!</b></font>
 </center>
@@ -431,7 +466,6 @@ textarea {
 <textarea name="text" class="feedback-input" placeholder="Message"></textarea>
 <input type="submit" value="SEND"/>
 </form>
-</div>
 </center>
 <hr />
 <center>

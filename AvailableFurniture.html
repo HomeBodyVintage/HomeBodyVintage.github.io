@@ -427,6 +427,9 @@ img[src$="#round"] {
   margin: 0px;
   border-radius: 2%;
 }
+img:hover {
+  opacity: 0.7;
+}
 .icon-a {
     color: #FFF;
     background: #ed7732;
@@ -451,7 +454,37 @@ mark {
 
 .success {color: white;}
 
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 100%;
+}
+
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #B1BF88;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+
 </style>
+<div class="container">
+<p><img src="photos/homepage/furniture.png#round" alt="Snow"> <button class="btn" onclick="window.location.href='AvailableHouseware.html';">VIEW PRICE &amp; DETAILS</button></p>
+</div>
 <div class="box">
 <font size="5">
 <center>
