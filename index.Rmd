@@ -8,12 +8,16 @@ output:
   background-color: #F6F5E8;
   font-size: 14pt;
 }
+img[src$="#round"] {
+  margin: 0px;
+  border-radius: 10px;
+}
 .box {
   height: 100%;
   width: 100%;
   background-color: #f5f5f0;
   color: black;
-  padding: 10px;
+  padding: 0px;
   border: solid 1px #d4c496;
 }
 .box1 {
@@ -21,7 +25,7 @@ output:
   width: 75%;
   background-color: #F6F5E8;
   color: black;
-  padding: 10px;
+  padding: 0px;
 }
 .icon-a {
     color: #FFF;
@@ -29,6 +33,31 @@ output:
     border-radius: 2px;
     padding: 3px;
     font-size: 0.8em;
+}
+/* Container needed to position the button. Adjust the width as needed */
+.container {
+  position: relative;
+  width: 100%;
+}
+
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #B1BF88;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: #B1BF88;
 }
 </style>
 
@@ -86,28 +115,40 @@ textarea {
     font-size: 0.8em;
 }
 ```
-
-
 ![](photos/homepage/mainimage.JPG)
 ```{css toc-content, echo = FALSE}
 .main-container {
-    max-width: 1800px;
+    max-width: 2000px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
 }
 ```
-<div class="box">
-
 <center>
-[![](photos/homepage/furniture1.png){width=49%}](AvailableFurniture.html)
-[![](photos/homepage/houseware.png){width=49%}](AvailableHouseware.html)
-</center>
-<center>
-[![](photos/homepage/Lighting.png){width=49%}](AvailableLighting.html)
-[![](photos/homepage/Art.png){width=49%}](AvailableArt.html)
-</center>
 
-<link href="_site/Contact.html"/>
-
+<div class="container">
+  <img src="photos/homepage/furniture1.png" alt="Snow">
+  <button class="btn" onclick="window.location.href='AvailableFurniture.html';"><font size="-1">VIEW AVAILABLE <b>FURNITURE</b></font></button>
 </div>
+
+<div class="container">
+  <img src="photos/homepage/houseware.png" alt="Snow">
+  <button class="btn" onclick="window.location.href='AvailableHouseware.html';"><font size="-1">VIEW AVAILABLE <b>HOUSEWARE</b></font></button>
+</div>
+
+<div class="container">
+  <img src="photos/homepage/Lighting.png" alt="Snow">
+  <button class="btn" onclick="window.location.href='AvailableLighting.html';"><font size="-1">VIEW AVAILABLE <b>LIGHTING</b></font></button>
+</div>
+
+<div class="container">
+  <img src="photos/homepage/Art.png" alt="Snow">
+  <button class="btn" onclick="window.location.href='AvailableArt.html';"><font size="-1">VIEW AVAILABLE <b>ART</b></font></button>
+</div>
+
+</center>
+
+
 
 <br>
 
@@ -124,7 +165,6 @@ textarea {
   <input type="submit" value="SEND"/>
 </form>
 
-</div>
 </center>
 
 ***
