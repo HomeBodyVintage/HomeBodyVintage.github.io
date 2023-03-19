@@ -28,6 +28,9 @@ img[src$="#round"] {
   margin: 0px;
   border-radius: 2%;
 }
+img:hover {
+  opacity: 0.8;
+}
 .box {
   height: auto;
   width: 100%;

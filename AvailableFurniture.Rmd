@@ -34,7 +34,10 @@ body{
 }
 img[src$="#round"] {
   margin: 0px;
-  border-radius: 2%;
+  border-radius: 5px;
+}
+img:hover {
+  opacity: 0.7;
 }
 .icon-a {
     color: #FFF;
@@ -60,11 +63,54 @@ mark {
 
 .success {color: white;}
 
+.container .btn:hover {
+  background-color: black;
+}
 </style>
+
+
 
 <div class="box">
 
 <font size="5"><center>AVAILABLE FURNITURE</center></font>
+
+### MCM DINING CHAIRS
+
+![](photos/available/available0048.JPG#round)
+<br>
+
+<center>
+[![](photos/available/available0049.JPG#round){.img-thumbnail width=30%}](photos/available/available0049.JPG#round)
+[![](photos/available/available0050.JPG#round){.img-thumbnail width=30%}](photos/available/available0050.JPG#round)
+[![](photos/available/available0051.JPG#round){.img-thumbnail width=30%}](photos/available/available0051.JPG#round)
+
+[![](photos/available/available0052.JPG#round){.img-thumbnail width=30%}](photos/available/available0052.JPG#round)
+[![](photos/available/available0053.JPG#round){.img-thumbnail width=30%}](photos/available/available0053.JPG#round)
+[![](photos/available/available0054.JPG#round){.img-thumbnail width=30%}](photos/available/available0054.JPG#round)
+
+[![](photos/available/available0055.JPG#round){.img-thumbnail width=30%}](photos/available/available0055.JPG#round)
+[![](photos/available/available0056.JPG#round){.img-thumbnail width=30%}](photos/available/available0056.JPG#round)
+</center>
+
+<center>
+<br>
+
+<button data-toggle="collapse" data-target="#demo" button class="btn success">VIEW PRICE & DETAILS</button>
+<div id="demo" class="collapse">
+<br>
+
+Price: $1,250 for set of 6
+
+Dimensions: 35.5"H x 20"W x 18"D
+
+Seat height: 18"
+
+Chairs are in good vintage condition. Show some signs of wear (see final photos). Please message for more details. Delivery available.
+
+</div>
+</center>
+
+***
 
 ### CANOPY BED
 
@@ -86,7 +132,7 @@ mark {
 
 Price: $975
 
-Dimensions: 90.5" H x 64.5" W x 86"L
+Dimensions: 90.5"H x 64.5"W x 86"L
 
 Stunning vintage queen-size four poster canopy bedframe by Baker Furniture. Make of solid wood with burl and cane. Bed is very solid and sturdy. Has some minor wear throughout. Bed brakes down into several pieces for easy transportation. Shipping available. Please email for more details. 
 
@@ -114,7 +160,7 @@ Stunning vintage queen-size four poster canopy bedframe by Baker Furniture. Make
 
 Price: $950 or $500 each
 
-Dimensions: 33.5" H x 22" W x 25" D
+Dimensions: 33.5"H x 22 W x 25"D
 
 Amazing black tufted Vladimir Kagan Sculpta Startrek Unicorn chair with polished aluminum V swivel base by Chromecraft. Chairs are in excellent vintage condition. One of the chairs has one vinyl repair on the back. Shipping available. Please email for more details.
 
@@ -144,7 +190,7 @@ Amazing black tufted Vladimir Kagan Sculpta Startrek Unicorn chair with polished
 
 Price: $1,250
 
-Dimensions: 65.5" H x 40" W x 18.5" D
+Dimensions: 65.5"H x 40"W x 18.5"D
 
 Stunning mid-century modern large gentleman's chest by American of Martinsville. Has two large doors and five drawers that all slide well. This piece is very sturdy and heavy. Shows some minor signs of wear. Shipping available. Please email for more details.
 
@@ -174,7 +220,7 @@ Stunning mid-century modern large gentleman's chest by American of Martinsville.
 
 Price: $850
 
-Dimensions: 24.5" H x 68.5" W x 16.5" D
+Dimensions: 24.5"H x 68.5"W x 16.5"D
 
 Beautiful mid-century modern entertainment center/media console by Syvania Electronics. This is a vintage record player that has been reimagined and restored. Piece is one of a kind and in excellent condition. Shipping available. Please email for more details.
 
@@ -207,7 +253,7 @@ Beautiful mid-century modern entertainment center/media console by Syvania Elect
 
 Price: $675
 
-Dimensions: 30" H x 63.5" W x 18" D
+Dimensions: 30"H x 63.5"W x 18"D
 
 Beautiful postmodern dresser by Broyhill Furniture. Dresser is in great condition. All drawers slide well. Small chip on the side. Shipping available. Please email for more photos/details.
 
@@ -237,7 +283,7 @@ Beautiful postmodern dresser by Broyhill Furniture. Dresser is in great conditio
 
 Price: $325
 
-Dimensions: 39" H x 76.5" W x 3" D
+Dimensions: 39"H x 76.5"W x 3"D
 
 Beautiful king-size mid-century modern walnut headboard. Shows some round circular marks in the finish on both sides. Shipping available. Please message for more details. 
 
@@ -266,7 +312,7 @@ Beautiful king-size mid-century modern walnut headboard. Shows some round circul
 
 Price: $350
 
-Dimensions: 38" H x 18" W x 18" D
+Dimensions: 38"H x 18"W x 18"D
 
 Beautiful mid-century modern caned barstools. Barstools are in good vintage condition, both show some cracks in the finish. Shipping available. Please email for more details. 
 
