@@ -65,26 +65,10 @@ img:hover {
 
 <font size="5"><center>AVAILABLE ART</center></font>
 
-### ORANGE PRINT
-
-![](photos/available/available0007.JPG#round)
-<br>
 
 
 <center>
-<br>
-
-<button data-toggle="collapse" data-target="#demo" button class="btn success">VIEW PRICE & DETAILS</button>
-<div id="demo" class="collapse">
-<br>
-
-Price: $55
-
-Dimensions: 10" H x 10" w
-
-Small orange print in faux wood frame. In great vintage condition. Shipping available. Please email for more details.
-
-</div>
+Come back later!
 </center>
 
 </div>
