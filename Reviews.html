@@ -323,23 +323,6 @@ $(document).ready(function () {
 
 
 <style type="text/css">
-  body{
-  background-color: #F6F5E8;
-  font-size: 14pt;
-}
-img[src$="#round"] {
-  margin: 0px;
-  border-radius: 2%;
-}
-.box {
-  height: auto;
-  width: 100%;
-  background-color: #f5f5f0;
-  color: black;
-  padding: 10px;
-  border: solid 1px #d4c496;
-  border-radius: 5px;
-}
 .icon-a {
     color: #FFF;
     background: #ed7732;
@@ -347,12 +330,81 @@ img[src$="#round"] {
     padding: 3px;
     font-size: 0.8em;
 }
+label {
+     align-items: center;
+     justify-content: center;
+     margin: 0 auto;
+     font-family: Helvetica;
+     font-size: 12pt;
+   }
 </style>
-<div class="box">
+<style type="text/css">
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body { background: #F6F5E8; font-size: 14pt;}
+form { max-width:420px; margin:10px auto; }
+
+.feedback-input {
+  color:black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight:500;
+  font-size: 16px;
+  border-radius: 5px;
+  line-height: 22px;
+  background-color: #FEFEFB;
+  border:1px solid #899566;
+  transition: all 0.3s;
+  padding: 5px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+
+.feedback-input:focus { border:1px solid #B1BF88; }
+
+textarea {
+  height: 100px;
+  line-height: 150%;
+  resize:vertical;
+}
+
+[type="submit"] {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  background:#B1BF88;
+  border-radius:50px;
+  border:0;
+  cursor:pointer;
+  color:black;
+  font-size:24px;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover { background:#899566; }
+.icon-a {
+    color: #FFF;
+    background: #ed7732;
+    padding: 3px;
+    font-size: 0.8em;
+}
+</style>
 <center>
-<img src="photos/reviews/photo0093.JPG#round" style="width:49.0%" /> <img src="photos/reviews/photo0084.JPG#round" style="width:49.0%" /><br><br> <img src="photos/reviews/photo0085.JPG#round" style="width:49.0%" /> <img src="photos/reviews/photo0086.JPG#round" style="width:49.0%" /><br><br> <img src="photos/reviews/photo0083.JPG#round" style="width:49.0%" />
+<font size="5">LEAVE US A REVIEW!</font>
 </center>
-</div>
+<center>
+<form action="https://formspree.io/f/xnqyzvnl" method="POST">
+<p><input name="Name" type="text" class="feedback-input" placeholder="Name" /> <input name="Item" type="text" class="feedback-input" placeholder="Item Purchased" /> <label for="sat">How satisfied are you with your purchase?</label> <select name="Satisfaction Level (out of 5)" id="sat"> <option value="5">5 of 5: Very Satisfied</option> <option value="4">4 of 5: Satisfied</option> <option value="3">3 of 5: Feeling OK</option> <option value="2">2 of 5: Unsatisfied</option> <option value="1">1 of 5: Very Unsatisfied</option> </select> <br></p>
+<textarea name="Comments about Satisfaction" class="feedback-input" placeholder="Comments on level of satisfaction (optional)"></textarea>
+<p><label for="sat">How likely are you to do business with SLC Vintage Goods LLC again in the future?</label> <select name="Buy Again? (out of 5)" id="sat"> <option value="5">5 of 5: Absolutely!</option> <option value="4">4 of 5: Very Likely</option> <option value="3">3 of 5: Possibly</option> <option value="2">2 of 5: Most Likely Not</option> <option value="1">1 of 5: Never Again!</option> </select> <br></p>
+<textarea name="Feedback for SLC Vintage Goods" class="feedback-input" placeholder="Feedback for SLC Vintage Goods LLC (optional)"></textarea>
+<textarea name="Additional Comments" class="feedback-input" placeholder="Anything else you'd like to add (optional)"></textarea>
+<input type="submit" value="SEND"/>
+</form>
+</center>
 <hr />
 <center>
 <p><font size="3"> Salt Lake City, UT   |   (760) 625-5431   |   <a href="mailto:slc.vintagegoods@gmail.com" class="email">slc.vintagegoods@gmail.com</a> </font> <br></p>
