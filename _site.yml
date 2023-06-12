@@ -2,18 +2,6 @@ name: "SLC Vintage Goods LLC"
 navbar:
   title: "<img src=\"photos/homepage/logo.PNG\" style=\"float: left;\" width=\"35px\"/>"
   left:
-    - text: "SHOP"
-      menu:
-      - text: "FURNITURE"
-        href: AvailableFurniture.html
-      - text: "HOUSEWARE"
-        href: AvailableHouseware.html
-      - text: "LIGHTING"
-        href: AvailableLighting.html
-      - text: "ART"
-        href: AvailableArt.html  
-      - text: "ARCHIVE"
-        href: Archive.html  
     - text: "DISCOVER"
       menu: 
       - text: "ABOUT"
@@ -22,8 +10,10 @@ navbar:
         href: Reviews.html
       - text: "FAQ"
         href: FAQ.html
-    - text: "CONTACT"
-      href: Contact.html
+    - text: "ARCHIVE"
+      href: Archive.html
+    - text: "REVIEW"
+      href: ReviewForm.html
   right:
     - icon: fa-instagram
       href: https://instagram.com/slc.vintagegoods/

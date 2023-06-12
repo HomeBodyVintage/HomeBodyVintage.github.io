@@ -124,30 +124,35 @@ textarea {
     margin-right: -20px;
 }
 ```
-<center>
 
-<div class="container">
-  <img src="photos/homepage/furniture1.png" alt="Snow">
-  <button class="btn" onclick="window.location.href='AvailableFurniture.html';"><font size="-1">VIEW AVAILABLE <b>FURNITURE</b></font></button>
-</div>
 
-<div class="container">
-  <img src="photos/homepage/houseware.png" alt="Snow">
-  <button class="btn" onclick="window.location.href='AvailableHouseware.html';"><font size="-1">VIEW AVAILABLE <b>HOUSEWARE</b></font></button>
-</div>
 
-<div class="container">
-  <img src="photos/homepage/Lighting.png" alt="Snow">
-  <button class="btn" onclick="window.location.href='AvailableLighting.html';"><font size="-1">VIEW AVAILABLE <b>LIGHTING</b></font></button>
-</div>
+```{r, echo=FALSE}
+###THIS SHOULD BE NORMAL IN-LINE CODE, NOT CODE WITHIN AN R CHUNK.
 
-<div class="container">
-  <img src="photos/homepage/Art.png" alt="Snow">
-  <button class="btn" onclick="window.location.href='AvailableArt.html';"><font size="-1">VIEW AVAILABLE <b>ART</b></font></button>
-</div>
-
-</center>
-
+#<center>
+# <div class="container"> 
+#  <img src="photos/homepage/furniture1.png" alt="Snow">
+#  <button class="btn" onclick="window.location.href='AvailableFurniture.html';"><font size="-1">VIEW AVAILABLE <b>FURNITURE</b></font></button>
+#</div>
+#
+#<div class="container">
+#  <img src="photos/homepage/houseware.png" alt="Snow">
+#  <button class="btn" onclick="window.location.href='AvailableHouseware.html';"><font size="-1">VIEW AVAILABLE <b>HOUSEWARE</b></font></button>
+#</div>
+#
+#<div class="container">
+#  <img src="photos/homepage/Lighting.png" alt="Snow">
+#  <button class="btn" onclick="window.location.href='AvailableLighting.html';"><font size="-1">VIEW AVAILABLE <b>LIGHTING</b></font></button>
+#</div>
+#
+#<div class="container">
+#  <img src="photos/homepage/Art.png" alt="Snow">
+#  <button class="btn" onclick="window.location.href='AvailableArt.html';"><font size="-1">VIEW AVAILABLE <b>ART</b></font></button>
+#</div>
+#
+#</center>
+```
 
 
 <br>
