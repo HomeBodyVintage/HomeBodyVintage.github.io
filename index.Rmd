@@ -39,8 +39,6 @@ img[src$="#round"] {
   position: relative;
   width: 100%;
 }
-
-
 /* Style the button and place it in the middle of the container/image */
 .container .btn {
   position: absolute;
@@ -54,6 +52,11 @@ img[src$="#round"] {
   border: none;
   cursor: pointer;
   border-radius: 5px;
+}
+
+.col3 {
+  columns: 3 300px;
+  -webkit-columns: 3 300px;
 }
 
 .container .btn:hover {
@@ -158,11 +161,37 @@ textarea {
 <br>
 
 <center>
-<div class="box1">
 
-<center><font size="5"><b>Let's Chat!</b></font></center>
+<div class="col3"><font size="5">
 
-<form action="https://formspree.io/f/xnqyzvnl" method="POST"> 
+<br>
+
+We Buy Furniture!
+
+<br>
+
+<i class="fa fa-map-marker"></i> &nbsp; Downtown Salt Lake City, UT
+
+<br>
+
+<i class="fa fa-calendar"></i> &nbsp; Viewings by Appointment
+
+<br>
+
+<i class="fa fa-truck"></i> &nbsp; Delivery Available
+
+
+<br>
+
+<br>
+
+<br>
+
+
+</font>
+
+<font size="5"><b>Let's Chat!</b></font>
+ <form action="https://formspree.io/f/xnqyzvnl" method="POST"> 
   <input name="name" type="text" class="feedback-input" placeholder="Name" />   
   <input name="email" type="text" class="feedback-input" placeholder="Email"/>
   <input name="item" type="text" class="feedback-input" placeholder="Item (if applicable)" />
@@ -170,7 +199,34 @@ textarea {
   <input type="submit" value="SEND"/>
 </form>
 
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+9
+
+9
+
+9
+
+</div>
+
 </center>
+
 
 ***
 
