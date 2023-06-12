@@ -164,17 +164,26 @@ textarea {
 
 <font size="5">
 
-We Buy Furniture!
-
 <i class="fa fa-map-marker"></i> &nbsp; Downtown Salt Lake City, UT
 
-<i class="fa fa-calendar"></i> &nbsp; Viewings by Appointment
+<a href="Contact.html" style="color:#171717"> <i class="fa fa-calendar"></i> &nbsp; Viewings by Appointment </a>
 
 <i class="fa fa-truck"></i> &nbsp; Delivery Available
 
+<i class="fa fa-usd"></i> &nbsp; We Buy Furniture!
+
+<a href="FAQ.html" style="color:#171717"> FAQ's </a>
+
+
+
 </font>
 
+</center>
+
 <br>
+
+<center>
+
 
 <font size="5"><b>Let's Chat!</b></font>
  <form action="https://formspree.io/f/xnqyzvnl" method="POST"> 
