@@ -162,33 +162,19 @@ textarea {
 
 <center>
 
-<div class="col3"><font size="5">
-
-<br>
+<font size="5">
 
 We Buy Furniture!
 
-<br>
-
 <i class="fa fa-map-marker"></i> &nbsp; Downtown Salt Lake City, UT
-
-<br>
 
 <i class="fa fa-calendar"></i> &nbsp; Viewings by Appointment
 
-<br>
-
 <i class="fa fa-truck"></i> &nbsp; Delivery Available
 
-
-<br>
-
-<br>
-
-<br>
-
-
 </font>
+
+<br>
 
 <font size="5"><b>Let's Chat!</b></font>
  <form action="https://formspree.io/f/xnqyzvnl" method="POST"> 
@@ -198,32 +184,6 @@ We Buy Furniture!
   <textarea name="text" class="feedback-input" placeholder="Message"></textarea>
   <input type="submit" value="SEND"/>
 </form>
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-9
-
-9
-
-9
-
-</div>
 
 </center>
 
