@@ -1,2 +1,2 @@
 # Home Body Vintage
-formerly SLC Vintage Goods LLC
+formerly SLC Vintage Goods
