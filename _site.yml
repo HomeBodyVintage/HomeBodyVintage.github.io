@@ -1,6 +1,6 @@
 name: "SLC Vintage Goods LLC"
 navbar:
-  title: "<img src=\"photos/homepage/logo.PNG\" style=\"float: left;\" width=\"35px\"/>"
+  title: "<img src=\"photos/HomeBodyVintage-LOGO.png\" style=\"float: left;\" width=\"35px\"/>"
   left:
     - text: "DISCOVER"
       menu: 
@@ -16,7 +16,7 @@ navbar:
       href: ReviewForm.html
   right:
     - icon: fa-instagram
-      href: https://instagram.com/slc.vintagegoods/
+      href: https://instagram.com/home.body.vintage/
     - icon: fa-pinterest
       href: https://www.pinterest.com/adrianaacastilllo/
     - icon: fa-etsy
