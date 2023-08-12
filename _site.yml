@@ -13,9 +13,9 @@ navbar:
     - text: "REVIEW"
       href: ReviewForm.html
   right:
-    - icon: fa-instagram
+    - icon: fa fa-instagram
       href: https://instagram.com/home.body.vintage/
-    - icon: fa-pinterest
+    - icon: fa fa-pinterest
       href: https://www.pinterest.com/adrianaacastilllo/
-    - icon: fa-etsy
+    - icon: fa fa-etsy
       href: https://etsy.com/shop/SLCVintageGoods/
