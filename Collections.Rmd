@@ -250,15 +250,15 @@ img[src$="#round"] {
 
 ***
 
-<center>
-<font size="3">
-Salt Lake City, UT &nbsp; | &nbsp;
-(760)625-5431 &nbsp; | &nbsp;
-slc.vintagegoods@gmail.com 
+<center><font size="3">
+Dallas, TX &nbsp; | &nbsp;
+(760) 625-5431 &nbsp; | &nbsp;
+homebodyvintage.dallas@gmail.com 
 </font>
 <br>
 
-<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy"></a>
+<font size="5">
+<a href="https://www.instagram.com/home.body.vintage/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
+<a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest" style="color:#f22c2c"></a>&nbsp;&nbsp;
+<a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy icon-a"></a></font>
 </center>

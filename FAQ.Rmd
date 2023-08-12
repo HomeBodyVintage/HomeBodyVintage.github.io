@@ -153,7 +153,7 @@ Will you buy my vintage furniture?
 Where do I pick up my item(s)?
 </summary>
 
-All items are available for pickup in downtown Salt Lake City, UT. [Contact us](Contact.html) to make arrangements.
+All items are available for pickup in Dallas, TX. [Contact us](Contact.html) to make arrangements.
 
 </details>
 
@@ -176,7 +176,7 @@ You can pickup your items during normal business hours. We're also available mos
 Do you offer refunds or exchanges?
 </summary>
 
-<b>All sales are final.</b> Please thoroughly read each items description and dimensions, and view all photos. We're happy to provide additional images and/or videos, and answer all questions prior to purchase. Please message us [here](Contact.html) with any questions. If an item breaks or malfunctions after purchase, SLC Vintage Goods LLC is not responsible for repairs, replacement, or refund. Additionally, refunds or credits are not offered if an item is not wanted due to dimensions. 
+<b>All sales are final.</b> Please thoroughly read each items description and dimensions, and view all photos. We're happy to provide additional images and/or videos, and answer all questions prior to purchase. Please message us [here](Contact.html) with any questions. If an item breaks or malfunctions after purchase, Home Body Vintage is not responsible for repairs, replacement, or refund. Additionally, refunds or credits are not offered if an item is not wanted due to dimensions. 
 
 </details>
 
@@ -231,7 +231,7 @@ We take great care in packaging our items for shipment. Each piece will be packa
 <summary>Do you have a storefront?
 </summary>
 
-<b>We sell online</b> and out of our storage unit in downtown Salt Lake City, UT. Contact us to schedule an in-person viewing.
+<b>We sell online</b> and out of our storage unit in Dallas, TX. Contact us to schedule an in-person viewing.
 
 </details>
 
@@ -241,14 +241,14 @@ We take great care in packaging our items for shipment. Each piece will be packa
 ***
 
 <center><font size="3">
-Salt Lake City, UT &nbsp; | &nbsp;
+Dallas, TX &nbsp; | &nbsp;
 (760) 625-5431 &nbsp; | &nbsp;
-slc.vintagegoods@gmail.com 
+homebodyvintage.dallas@gmail.com 
 </font>
 <br>
 
 <font size="5">
-<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/home.body.vintage/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
 <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest" style="color:#f22c2c"></a>&nbsp;&nbsp;
 <a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy icon-a"></a></font>
 </center>

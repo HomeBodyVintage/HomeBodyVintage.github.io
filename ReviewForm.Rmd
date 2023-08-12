@@ -92,7 +92,7 @@ textarea {
       <br>
       
   <textarea name="Comments about Satisfaction" class="feedback-input" placeholder="Comments on level of satisfaction (optional)"></textarea>
-    <label for="sat">How likely are you to do business with SLC Vintage Goods LLC again in the future?</label>
+    <label for="sat">How likely are you to do business with Home Body Vintage again in the future?</label>
       <select name="Buy Again? (out of 5)" id="sat">
         <option value="5">5 of 5: Absolutely!</option>
         <option value="4">4 of 5: Very Likely</option>
@@ -102,7 +102,7 @@ textarea {
       </select>
       <br>
       
-  <textarea name="Feedback for SLC Vintage Goods" class="feedback-input" placeholder="Feedback for SLC Vintage Goods LLC (optional)"></textarea>
+  <textarea name="Feedback for SLC Vintage Goods" class="feedback-input" placeholder="Feedback for Home Body Vintage (optional)"></textarea>
       
   <textarea name="Additional Comments" class="feedback-input" placeholder="Anything else you'd like to add (optional)"></textarea>
   <input type="submit" value="SEND"/>
@@ -112,14 +112,14 @@ textarea {
 ***
 
 <center><font size="3">
-Salt Lake City, UT &nbsp; | &nbsp;
+Dallas, TX &nbsp; | &nbsp;
 (760) 625-5431 &nbsp; | &nbsp;
-slc.vintagegoods@gmail.com 
+homebodyvintage.dallas@gmail.com 
 </font>
 <br>
 
 <font size="5">
-<a href="https://www.instagram.com/slc.vintagegoods/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/home.body.vintage/" class="fa fa-instagram" style="color:black"></a>&nbsp;&nbsp;
 <a href="https://www.pinterest.com/adrianaacastilllo/" class="fa fa-pinterest" style="color:#f22c2c"></a>&nbsp;&nbsp;
 <a href="https://www.etsy.com/shop/SLCVintageGoods/" class="fa fa-etsy icon-a"></a></font>
 </center>
