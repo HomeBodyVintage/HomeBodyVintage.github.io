@@ -4,8 +4,6 @@ navbar:
   left:
     - text: "DISCOVER"
       menu: 
-      - text: "ABOUT"
-        href: About.html
       - text: "REVIEWS"
         href: Reviews.html
       - text: "FAQ"
